@@ -49,3 +49,21 @@ It also points to other innovative organizational forms (Distributed Autonomous 
 
 - Who legitimately speaks for a "group" whose data is in question? Especially for genetic and demographic data, group boundaries are contested.
 - How are revenue and governance rights split inside a Data Coalition itself? The book gestures at this but does not propose a specific design.
+
+## Updates
+
+### "Coalition" vs. "aggregation" (zero-knowledge)
+
+From [[good-enough-ancestor-senate-canada]]: Tang sharpens a distinction the book leaves implicit. A **data coalition** is *not* the same as an **aggregation of data**. Multiple stakeholders can join a coalition without sharing any raw data at all — using **zero-knowledge technology** that allows proving capability or membership without revealing personally identifiable information.
+
+Worked example from the testimony: Taiwan's COVID privacy-preserving contact tracing. A venue printed a random number in a QR code at the front door. A person scanned it and sent it to the trusted number 1922 via their telecom. "The telecom knew nothing about what the random number meant. The venue learned nothing — not even the phone number of the visitor. The state learned nothing whatsoever." Yet on infection, contact tracing and recursive notification still worked — without sacrificing the privacy of people outside the affected area.
+
+### "Data as soil" — domain-specific local models
+
+From [[safer-sovereignty]] and [[good-enough-ancestor-senate-canada]]: Tang's preferred slogan now is **data is not oil. Data is soil.** Domain-specific local models, trained inside the community that generates the data, are energy-efficient and continuously correctable.
+
+Taiwan TCloud (台灣雲市集) subsidises up to 80% of SaaS purchases for small/medium enterprises — including the agricultural sector — letting users choose among thousands of solutions and switch freely. The result is interoperability, data sovereignty, and sector-trained models. Tang gives the **drone agricultural service platform** as an emblem: many small operators pooling equipment, certifying pilots, and sharing compliance records, achieving "a horizontal scale previously available only to large agribusiness." A financial-sector data coalition among banks and insurers is reported as adopting the same pattern.
+
+### Enterprise application
+
+From [[safer-sovereignty]]: when applied to enterprise AI, the data-as-soil principle becomes **decision sovereignty** — control not only over where data resides but over how AI may interpret it, what actions may follow, and how authority can be brought back in-house. The "first wave of data sovereignty asked, 'Where does data live?' The next must ask, 'Where does decision-making live?'"

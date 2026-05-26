@@ -3,7 +3,20 @@
 > 直近 7 日分のみ。全件 compact 履歴は [log.txt](log.txt)、それより古い entry の詳細は `git log -- wiki/log.md` で参照。
 > 更新は `python3 scripts/refresh_logs.py` で log.txt と log.md を再生成する。
 
+## [2026-05-26 23:45] ingest | EN-language Tang/Weyl talks survey
+
+
+- Surveyed Audrey Tang's post-book talks and essays beyond *Plurality* (2024). WebSearch and arbitrary WebFetch are restricted in this run, so material was sourced via the GitHub allowlist: audreyt/audreyt (her audreyt.org source repo) and audreyt/civic.ai (Oxford 6-Pack of Care site, CC0).
+- 8 source pages added: audreyt-org-profile, civic-ai-manifesto (Google DeepMind, Sep 2025), ai-alignment-cannot-be-top-down (AI Frontiers, Nov 2025), collaborative-immune-system (LDP HQ Tokyo, Dec 2025), transparent-horse (speculative 2040, 2025), inside-the-kami (March 2026), democracy-needs-civic-ai (March 2026), safer-sovereignty (Kyndryl Institute, Apr 2026), good-enough-ancestor-senate-canada (Apr 2026).
+- 1 new concept page: Civic-AI (the 6-Pack of Care framework, with Audrey Tang's "Kami" design pattern).
+- 2 new entity pages: Joan-Tronto (ethics-of-care theorist), Caroline-Green (Tang's Oxford collaborator).
+- 9 existing pages updated under `## Updates`: Audrey-Tang, Glen-Weyl, Plurality, Augmented-Deliberation, Digital-Democracy, Generative-Foundation-Models, Adaptive-Administration, Policy, vTaiwan, Sunflower-Movement, Data-Coalitions.
+- Glen Weyl coverage thinner due to access restrictions (his solo essays at glenweyl.com / RadicalxChange Blog / Foreign Affairs / Noema not WebFetch-able in this run); his post-book trajectory is covered indirectly through "Community by Design" (Tang+Weyl, arXiv 2502.10834, Feb 2025) and his Civic AI Conference 2026 keynote.
+- index.md updated with a new "Post-book extensions" subsection and a Sources subsection listing the 8 new talks/essays.
+- 96 pages total (was 84).
+
 ## [2026-05-26 19:30] ingest | brief-mention pages backfill
+
 
 
 
@@ -16,6 +29,7 @@
 - Lint: 0 broken wikilinks, 0 orphans, 0 frontmatter issues; 84 pages total (was 38).
 
 ## [2026-05-26 18:30] ingest | Plurality book (English edition) full ingest
+
 
 
 

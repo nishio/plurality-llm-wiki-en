@@ -42,3 +42,30 @@ The synthesis: GFMs become Plural when they are paired with [[Data-Coalitions]],
 - [[Data-Coalitions]]
 - [[Property-and-Contract]]
 - [[Policy]]
+- [[Civic-AI]]
+
+## Updates
+
+### From general-purpose GFMs to bounded "Kami"
+
+From [[civic-ai-manifesto]], [[inside-the-kami]], and [[safer-sovereignty]]: Tang's post-book trajectory has moved from ambivalent engagement with GFMs to a clear preference for **bounded, specialised systems**. The argument has both political grounds (general-purpose optimisers strain every boundary; opaque systems make oversight impossible) and technical grounds (Bengio's *Scientist AI* truthification pipeline and LeCun's SAI agenda converge on the same lesson: bounded > universal).
+
+### "Authoritarian" vs. "assistive" intelligence
+
+From [[good-enough-ancestor-senate-canada]]: Tang distinguishes:
+- **Authoritarian intelligence** — AI that "automates intelligence, making decisions on behalf of people"; example: personalised social-media feeds optimised for engagement-through-enragement.
+- **Assistive intelligence** — AI that "assists cross-conversation between those who would otherwise not agree"; example: Polis, Community Notes, Collaborative Notes.
+
+### "Data as soil" rebuttal to "data as oil"
+
+From [[safer-sovereignty]] and [[good-enough-ancestor-senate-canada]]: GFMs trained on extractively-pooled data are "data as oil" — energy-inefficient large refineries. Domain-specific local models tended by the community are **"data as soil"** — locally cultivated, with continuous course-correction when bias or error appears, instead of waiting half a year for a high-energy retrain.
+
+### Specific instances
+
+- **gpt-oss-safeguard** ([[collaborative-immune-system]]): a deliberative, open, steerable model provided by ROOST in collaboration with OpenAI/Discord/Bluesky. Cites the policy clause it acted on; can be locally fine-tuned; rules are a text file — no GPU retrain required.
+- **jdd-kami** ([[democracy-needs-civic-ai]]): a personal Civic AI cultivated by Tang and Tenzin Yangtso, running on local hardware (no cloud, no network, airplane-mode-runnable).
+- **TAIDE** ([[civic-ai-manifesto]] indirectly): Taiwan's Trustworthy AI Dialogue Engine that synthesised the 2024 alignment-assembly proposals same-day.
+
+### Cultural alignment failure
+
+From [[ai-alignment-cannot-be-top-down]]: Figure 1 of the original AI Frontiers essay cites Ada Lovelace Institute (2025) / *Which Humans?* PsyArXiv preprint showing that as cultural distance from a WEIRD reference point increases, GPT's alignment with local human values declines — "a subtle but systemic risk to pluralism and democratic self-determination."

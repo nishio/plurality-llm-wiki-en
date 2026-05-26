@@ -51,3 +51,23 @@ From [[plurality-book]], Taiwan's particular form of Digital Democracy synthesiz
 
 - Does the Taiwan model travel to larger or more deeply polarized polities (US, India, Brazil), or is it tied to Taiwan's specific historical conditions (size, external adversary, cooperative tradition)?
 - Are bridging algorithms like Community Notes durable as platforms change ownership?
+
+## Updates
+
+### Quantitative claim refinements
+
+From [[audreyt-org-profile]]: under Tang's ministerial tenure "public trust in Taiwan's government rose from single digits to over 70 percent". The pre-Tang baseline cited is **9 percent in 2014** (after the [[Sunflower-Movement]]) and **over 70 percent by 2020** ([[civic-ai-manifesto]]).
+
+### Travelling instances
+
+From [[civic-ai-manifesto]]:
+- **Japan — Takahiro Anno**: ran for Tokyo governor inspired by *Plurality*; crowdsourced platform via AI sensemaking. Subsequently led Tokyo 2050 consultation, then won 2.5%+ of the national vote in a House of Councillors election; "Team Mirai" is now a national party in the Diet.
+- **California — Engaged California**: developed with Governor Newsom's team. Originally for teen social-media use; pivoted during the LA wildfires to AI-sensemaking-driven wildfire recovery planning. A 10-week deliberation engaged 1,400+ state employees, generating 2,600+ ideas on government efficiency that informed executive action.
+
+### V-Dem ranking
+
+From [[collaborative-immune-system]]: According to V-Dem (Varieties of Democracy), Taiwan has been "the number one target of foreign disinformation attacks for the past 12 years" — and despite this it has maintained "the freest internet in Asia" ([[ai-alignment-cannot-be-top-down]]).
+
+### "Geothermal democracy"
+
+From [[audreyt-org-profile]]: Tang's December 2025 Right Livelihood Lecture in Zurich introduced the framing **geothermal democracy** — "the crashing plates turned into positive energy for renewal." See also the Right Livelihood Award acceptance speech in Stockholm.

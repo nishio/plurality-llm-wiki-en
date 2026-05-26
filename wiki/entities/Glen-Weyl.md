@@ -33,3 +33,20 @@ The book is the most prominent statement of Weyl's evolution from the "Radical M
 - [[Quadratic-Funding]]
 - [[Social-Markets]]
 - [[Plurality]]
+- [[Civic-AI]]
+
+## Updates
+
+### Ongoing collaboration with Tang
+
+From [[audreyt-org-profile]] (May 2026 snapshot of audreyt.org): Weyl and Tang co-authored *Community by Design* (arXiv:2502.10834, February 2025) with four additional co-authors. On the civic.ai site this paper is described as "the technical backbone behind Packs 1 and 5" of [[Audrey-Tang]]'s [[Civic-AI]] 6-Pack of Care — "proposing rebuilding social platforms around social fabric — rewarding content that bridges communities rather than maximising engagement."
+
+Tang now characterises her own project as **techno-communitarianism**, "a synthesis of the Plurality framework with Glen Weyl, and Patrick Deneen's communitarian critique of liberalism — as a theory of Civic AI that fosters rather than atomises community" (from [[audreyt-org-profile]]).
+
+### Civic AI Conference 2026
+
+From [[democracy-needs-civic-ai]]: Weyl was a keynote speaker at the **Civic AI Conference 2026** held at Rhodes House, Oxford, on 25 March 2026 — convened by Tang and Caroline Green as the inaugural public gathering of the 6-Pack of Care community.
+
+### Note on access to Weyl's solo writings
+
+WebFetch access to Weyl's personal essays (glenweyl.com, Foreign Affairs, Noema, RadicalxChange blog, Microsoft Research Plural Technology Collaboratory blog) is currently restricted in this wiki's tooling. Existing pages cite the book and the *Community by Design* paper as primary EN sources for his post-book trajectory. Future ingest passes from authenticated sources (or unrestricted environments) could substantially expand this entry.

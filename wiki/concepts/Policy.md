@@ -52,3 +52,25 @@ A live example: an annual event in Taiwan since 2018, using [[Quadratic-Voting]]
 
 - The book mostly addresses democratic states. How does Plural policy interact with policymakers in authoritarian or weak-state contexts?
 - A 1%-of-GDP commitment is roughly equivalent to defense spending in many states — building the political coalition for that is unaddressed in the book.
+
+## Updates
+
+### Concrete legislative implementation: Taiwan's anti-fraud regime (2024)
+
+From [[collaborative-immune-system]] and [[ai-alignment-cannot-be-top-down]]: the *Fraud Crime Hazard Prevention Act* (passed July 2024) is presented as a working Plural-policy template — a citizen-mandated, legitimacy-backed enforceable duty regime against AI-enabled fraud. Chapter 3 covers Articles 27–42 governing Internet Advertising Platforms (not general speech platforms). Reach, not Speech.
+
+### "Reach not Speech" doctrine
+
+From [[civic-ai-manifesto]] and [[ai-alignment-cannot-be-top-down]]: Tang argues for a Section-230 reform doctrine that distinguishes hosting (protected) from algorithmic amplification (subject to recommender-accountability rules). Co-articulated in *Sunset Section 230 and Unleash the First Amendment* (CACM 2026, Tang/Lanier/Stanger).
+
+### Social portability as Plural-policy lever
+
+From [[civic-ai-manifesto]] and [[ai-alignment-cannot-be-top-down]]: **Utah Digital Choice Act (H.B. 418)** — effective July 2026 — mandates that citizens can take their entire social graph to new services, with platforms required to choose a fair, non-discriminatory, interoperable protocol (ActivityPub, AT Protocol, or DSNP). The state publishes qualifying technical standards. "The information superhighway must have off-ramps, which forces platforms to compete on quality of care, not lock-in." Similar proposals are noted in EU (Data Act) and US Congress (S.1634).
+
+### Interoperable governance vs. universal harmonisation
+
+From [[good-enough-ancestor-senate-canada]]: Tang argues the global AI-governance gap is best closed not by a single harmonised universal principle but by "interoperable governance" — common auditing standards, incident-reporting, synthetic-media provenance, and anti-lock-in procurement — designed to work across jurisdictions without harmonising every domestic rule. "Canada, Taiwan, and other free and open societies can be peers in this work."
+
+### Civic AI as the new AI-policy stack
+
+See [[Civic-AI]]: the 6-Pack of Care now functions as Tang's recommended AI-governance architecture for democracies — federated trust-and-safety (e.g. **ROOST.tools**, see [[collaborative-immune-system]]), community-scale assistants, and bounded local stewards (Kami).

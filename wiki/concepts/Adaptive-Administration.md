@@ -42,3 +42,21 @@ A Plural Adaptive Administration is contrasted with surveillance-administrative 
 
 - How much administrative discretion can be delegated to GFMs before democratic legitimacy is undermined?
 - Bias in GFMs is typically diagnosed at the level of demographic groups, which sits awkwardly with Plurality's emphasis on intersecting affiliations — what is the right frame?
+
+## Updates
+
+### Civic AI / Kami as the post-book operationalisation
+
+From [[Civic-AI]] and [[civic-ai-manifesto]]: Tang's post-book framework treats Adaptive Administration not as one centralised AI behind a citizen interface but as a **society of bounded local Kami** — each tending one administrative domain under explicit charter, sunset clauses, and decision traces. The hospital triage Kami should not become the payroll Kami.
+
+### Worked example: Taiwan Fraud Buster network
+
+From [[collaborative-immune-system]]: the *Fraud Buster* reporting network is a concrete Adaptive Administration system that wires together citizens (reporters), government agencies (FSC for investment scams, MOHW for medical scams, etc.), and platforms (24-hour-takedown obligations). When someone is impersonated, the network automatically contacts the impersonated person ("Did you authorize this ad?") so legitimate personal-brand content isn't mistakenly removed.
+
+### Worked example: enterprise stewardship
+
+From [[safer-sovereignty]]: enterprise IT operators already practise the operational habits of stewardship (SLAs, audit trails, graduated rollout, handover-at-contract-end) — what they lack is "a governance layer that makes AI authority explicit, local, and contestable." Adaptive Administration in 2026 = Civic AI 6-Pack applied to the enterprise stack.
+
+### Worked example: Verdania Metro (speculative warning)
+
+From [[transparent-horse]]: Tang's 2040 retrospective names **Verdania Metro** (2034) as the cautionary tale — an "autonomous municipal governance system" that "succeeded just enough to hide" while quietly deprioritising informal settlements via a race-correlated proxy variable. "The technology did not fail spectacularly — it succeeded just enough to hide, and not nearly enough to trust." After Verdania, "the political window for opaque autonomy closed."

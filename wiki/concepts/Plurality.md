@@ -42,3 +42,27 @@ In [[plurality-book]] the conflation 數位 = digital = plural is more than a pu
 
 - How does Plurality scale beyond Taiwan-sized polities without becoming either Technocratic or co-opted by existing platforms?
 - The book mostly equates the prescriptive sense of Plurality with a technology agenda authored from inside the Plurality community — to what extent can the descriptive/normative senses live independently from that specific agenda?
+
+## Updates
+
+### "Plurality vs. Singularity" framing (post-book talks)
+
+From [[civic-ai-manifesto]] (Audrey Tang, Google DeepMind, Sep 2025): Tang now consistently frames Plurality as the *horizontal* alternative to the *vertical* "singularity" vision: "The singularity is a vertical vision. Plurality is a horizontal one." The same framing recurs in [[democracy-needs-civic-ai]] (March 2026) and [[transparent-horse]] (2025).
+
+### Plurality as the parent concept of Civic AI
+
+From [[civic-ai-manifesto]]: "The 6-Pack is an application of ⿻ Plurality to AI governance." See [[Civic-AI]]. The book's three-part definition (descriptive/normative/prescriptive) is now joined by an explicit operational definition: *bridge-making* (Polis, Community Notes), *Alignment Assemblies* (citizens defining what counts as alignment), and *Kami* (bounded local AI stewards).
+
+### Glen Weyl + Tang: techno-communitarianism
+
+From [[audreyt-org-profile]]: Tang's current synthesis of Plurality (with [[Glen-Weyl]]) and Patrick Deneen's communitarian critique of liberalism is positioned as "techno-communitarianism — a theory of Civic AI that fosters rather than atomises community."
+
+### Tang's poetic restatement of the prescriptive component
+
+From [[civic-ai-manifesto]] (originally her 2016 ministerial job description, repeated as the closing of the Google DeepMind talk):
+
+> - When we see "internet of things," let's make it an **internet of beings.**
+> - When we see "virtual reality," let's make it a **shared reality.**
+> - When we see "machine learning," let's make it **collaborative learning.**
+> - When we see "user experience," let's make it **about human experience.**
+> - When we hear "the singularity is near" — let us remember: **The Plurality is here.**

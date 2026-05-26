@@ -32,3 +32,19 @@ vTaiwan grew out of the civic-tech community [[g0v]] in the wake of the [[Sunflo
 - [[Augmented-Deliberation]]
 - [[Join]]
 - [[Sunflower-Movement]]
+
+## Updates
+
+### The Uber case retold in fuller detail
+
+From [[civic-ai-manifesto]]: the 2015 Uber-in-Taiwan case was the platform's first major test. Polis was deployed specifically because, per Tang, "any social network with a 'dunk button' (reposting) leads to polarisation. Polis removes these buttons. In fact, it doesn't even have a reply button. Participants see a statement from a fellow citizen and can only agree or disagree." A *bridging bonus* rewards ideas that resonate with both sides.
+
+"After just three weeks, the result was a coherent bundle of ideas that left everybody slightly happier and nobody very unhappy. The consensus on principles became law and seamlessly resolved the conflict."
+
+### Time-zone and marriage-equality cases
+
+Also from [[civic-ai-manifesto]]: two further worked examples of vTaiwan-style deliberation:
+- **Time-zone debate (+8 vs. +9)**: individual polling showed gridlock; structured small-group deliberation revealed a shared underlying value ("make Taiwan seen as unique") and led to a Gold Card residency programme rather than a costly time-zone change.
+- **Marriage equality**: polarisation occurred because one side argued for individual rights ("hūn") and the other for family kinship ("yīn"). Once this was surfaced through legitimate sensemaking, the path forward (legalising individual weddings without forcing family kinship) became clear.
+
+These are presented as proofs that "many conflicts have common knowledge problems" — the solutions become tangible "simply by ensuring local knowledge is well-known by everyone, and everyone knows that everyone knows it."

@@ -41,6 +41,9 @@ Part of the multilingual [plurality-llm-wiki](https://github.com/nishio/pluralit
 - [Policy](concepts/Policy.md)
 - [Digital Public Infrastructure](concepts/Digital-Public-Infrastructure.md)
 
+### Post-book extensions
+- [Civic AI](concepts/Civic-AI.md) — Audrey Tang & Caroline Green's 6-Pack of Care framework
+
 ### Foil ideologies and adjacent concepts
 - [Technocracy](concepts/Technocracy.md) and [Libertarianism](concepts/Libertarianism.md) — the two "monist atomism" worldviews Plurality is positioned against
 - [Monist Atomism](concepts/Monist-Atomism.md) — their shared metaphysical commitment
@@ -56,6 +59,8 @@ Part of the multilingual [plurality-llm-wiki](https://github.com/nishio/pluralit
 - [Hannah Arendt](entities/Hannah-Arendt.md) — descriptive pillar of Plurality
 - [Danielle Allen](entities/Danielle-Allen.md) — normative pillar of Plurality
 - [JCR Licklider](entities/JCR-Licklider.md) — protagonist of *The Lost Dao*
+- [Joan Tronto](entities/Joan-Tronto.md) — ethics-of-care theorist underpinning Civic AI
+- [Caroline Green](entities/Caroline-Green.md) — Oxford co-creator of the 6-Pack of Care
 
 ### Genealogy of Plurality (brief mentions, contextualized)
 - Lost Dao trio: [Doug Engelbart](entities/Doug-Engelbart.md), [Ted Nelson](entities/Ted-Nelson.md)
@@ -79,7 +84,19 @@ Part of the multilingual [plurality-llm-wiki](https://github.com/nishio/pluralit
 
 ## Sources
 
+### The book
 - [Plurality book](sources/plurality-book.md) — *Plurality: The Future of Collaborative Technology and Democracy* (Weyl, Tang & community, 2024, CC0)
+
+### Audrey Tang post-book talks / essays (2025–2026)
+- [audreyt.org profile](sources/audreyt-org-profile.md) — site index, recognitions, publications list
+- [Civic AI Manifesto](sources/civic-ai-manifesto.md) — Google DeepMind, London (Sep 2025)
+- [AI Alignment Cannot Be Top-Down](sources/ai-alignment-cannot-be-top-down.md) — AI Frontiers (Nov 2025)
+- [Collaborative Immune System](sources/collaborative-immune-system.md) — LDP HQ, Tokyo (Dec 2025)
+- [Transparent Horse](sources/transparent-horse.md) — speculative 2040 retrospective (2025)
+- [Inside the Kami](sources/inside-the-kami.md) — civic.ai technical essay (March 2026)
+- [Democracy Needs Civic AI](sources/democracy-needs-civic-ai.md) — Oxford Civic AI Conference (March 2026)
+- [Safer Sovereignty](sources/safer-sovereignty.md) — Kyndryl Institute (April 2026)
+- [A Good Enough Ancestor](sources/good-enough-ancestor-senate-canada.md) — Senate of Canada testimony (April 2026)
 
 ## Analyses
 
