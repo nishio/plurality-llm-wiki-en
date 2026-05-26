@@ -7,11 +7,11 @@ sources:
 
 ## Definition
 
-From [[plurality-book]] chapter **2-1 A View From Yushan**, Tridemism (三民主義) is the official philosophy of the Republic of China articulated by Sun Yat-Sen in 1905. It comprises three principles:
+From [[plurality-book]] chapter **2-1 A View From Yushan**, Tridemism (三民主義) is the official philosophy of the Republic of China articulated by [[Sun-Yat-Sen]] in 1905. It comprises three principles:
 
 1. **民族 / Mínzú** (literally "civil clan"; usually translated as "nationalism", though with a notable emphasis on **ethnic pluralism**, 五族共和, reflected in the original ROC flag's colors for each major ethnicity).
 2. **民權 / Mínquán** (literally "civil rights"; usually translated as "democracy") — articulated as rights of election, recall, initiative and referendum, plus a five-Yuan division of powers (the European three plus Confucian Control and Examination Yuans).
-3. **民生 / Mínshēng** (literally "civil livelihood"; usually translated as "socialism") — drawing from Henry George's land-rights equality, anti-monopoly stance, and cooperative enterprise.
+3. **民生 / Mínshēng** (literally "civil livelihood"; usually translated as "socialism") — drawing from [[Henry-George]]'s land-rights equality, anti-monopoly stance, and cooperative enterprise.
 
 ## Why this matters for Plurality
 
@@ -27,10 +27,10 @@ The book traces Tridemism's influences to:
 
 - Japanese, Christian and American democratic reform absorbed during Sun's exile;
 - Confucian traditions;
-- Henry George's economic philosophy;
-- John Dewey, who visited China in 1919 and influenced the early Republic via his student Hu Shih.
+- [[Henry-George]]'s economic philosophy;
+- [[John-Dewey]], who visited China in 1919 and influenced the early Republic via his student [[Hu-Shih]].
 
-After Chiang Kai-Shek's relocation to Taiwan in 1949, Tridemism's Mínshēng line shaped:
+After [[Chiang-Kai-Shek]]'s relocation to Taiwan in 1949, Tridemism's Mínshēng line shaped:
 
 - the 1949–1953 Rural Land Reform;
 - the 1977 Georgist land-value tax;

@@ -19,10 +19,10 @@ The chapter cites Amartya Sen's observation that Arrow's Impossibility Theorem i
 The book groups Plural Voting methods into:
 
 - **[[Quadratic-Voting]]** (QV) — quadratic cost on votes per issue.
-- **[[Liquid-Democracy]]** (LD) — delegated and re-delegatable votes, traceable to Charles Dodgson (Lewis Carroll).
+- **[[Liquid-Democracy]]** (LD) — delegated and re-delegatable votes, traceable to [[Charles-Dodgson]] (Lewis Carroll).
 - **Correlation discounting / eigenvoting** — applying degressive proportionality to underlying social factors rather than raw individuals, akin to PageRank.
 - **Adaptive representation** — single-member districts but with boundaries drawn around current social cleavages (race, geographic type, education) rather than just geography, requiring a Plural [[Identity-and-Personhood]] system.
-- **Predictive voting / Futarchy** — Robin Hanson's proposal: vote on values, bet on beliefs in prediction markets. The book itself uses a hybrid where contributors simultaneously vote and predict outcomes.
+- **Predictive voting / [[Futarchy]]** — [[Robin-Hanson]]'s proposal: vote on values, bet on beliefs in prediction markets. The book itself uses a hybrid where contributors simultaneously vote and predict outcomes.
 - **Quadratic Liquid Democracy** — QV plus delegation, implemented by [[RadicalxChange]] internally.
 - **Assisted real-time voting** — digital assistants that model voters' perspectives and vote on their behalf subject to review.
 
@@ -30,7 +30,7 @@ The book groups Plural Voting methods into:
 
 - Approval voting and ranked-choice (partial fixes to Duverger's "lesser of two evils").
 - Federal, proportional and consociational representation (somewhat Plural but rigid, entrenching historical cleavages).
-- Penrose's square-root rule, approximately used in EU member-state voting weights.
+- [[Lionel-Penrose|Penrose]]'s square-root rule, approximately used in EU member-state voting weights.
 
 ## Limits acknowledged in the book
 

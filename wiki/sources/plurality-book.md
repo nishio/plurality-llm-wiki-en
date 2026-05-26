@@ -30,14 +30,14 @@ The book is organized in seven sections. It is written in a deliberately "circul
 
 ### Section 2: Introduction
 - **2-0 Information Technology and Democracy: a Widening Gulf** — Two opposing threats from tech: "anti-social" (eroding social fabric) and "centralizing" (mass surveillance, foundation models). Diagnoses social, economic, political, legal, and existential faces of the anti-social threat.
-- **2-1 A View From Yushan** — The Taiwan story. Sunflower movement, Sun Yat-Sen's [[Tridemism]], John Dewey's pragmatism, post-WWII rural land reform, civil-society cooperative tradition, and the rise of [[Digital-Democracy]] in Taiwan.
+- **2-1 A View From Yushan** — The Taiwan story. Sunflower movement, [[Sun-Yat-Sen]]'s [[Tridemism]], [[John-Dewey]]'s pragmatism, post-WWII rural land reform, civil-society cooperative tradition, and the rise of [[Digital-Democracy]] in Taiwan.
 - **2-2 The Life of a Digital Democracy** — Concrete Taiwanese digital-democracy practices: [[vTaiwan]], [[Join]], Pol.is bridging, mask map / COVID response.
 
 ### Section 3: Plurality
 - **3-0 What is Plurality?** — The three-part definition: descriptive (Hannah Arendt), normative (Danielle Allen), prescriptive (Audrey Tang's 數位/digital-plural). Plurality = "technology for collaboration across social difference"; contrasts with "monist atomism" of Libertarianism and Technocracy.
-- **3-1 Living in a Plural World** — Twentieth-century science's shift from monist atomism to complexity, networks, ecosystems, relationality (physics, biology, neuroscience, network sociology a la Mark Granovetter).
+- **3-1 Living in a Plural World** — Twentieth-century science's shift from [[Monist-Atomism|monist atomism]] to complexity, networks, ecosystems, relationality (physics, biology, neuroscience, network sociology a la [[Mark-Granovetter]]).
 - **3-2 Connected Society** — Danielle Allen's "Connected Society"; intersecting non-hierarchical affiliations; identity as bundles of group memberships.
-- **3-3 [[The-Lost-Dao]]** — Pre-history of the internet's Plural ambitions: J.C.R. Licklider's "Intergalactic Computer Network", Ted Nelson, Doug Engelbart, ARPANET; how the vision was lost to private corporate platforms.
+- **3-3 [[The-Lost-Dao]]** — Pre-history of the internet's Plural ambitions: [[JCR-Licklider]]'s "Intergalactic Computer Network", [[Ted-Nelson]], [[Doug-Engelbart]], ARPANET; how the vision was lost to private corporate platforms.
 
 ### Section 4: Freedom
 Articulates Plurality as both a system of rights and a digital operating system, structured as a "hypergraph" of people, groups, and digital assets.
@@ -69,14 +69,14 @@ Plural technology applied to specific sectors. (This wiki summarizes rather than
 - **6-5 Learning** — Open educational resources, peer learning, GFMs in education.
 
 ### Section 7: Forward
-- **7-0 [[Policy]]** — The Taiwan model as synthesis of US, PRC, EU "digital empires" (Anu Bradford); proposed 1% of GDP for [[Digital-Public-Infrastructure]]; lessons from [[ARPA]] / IPTO under Licklider; new ⿻ regulation around [[Data-Coalitions]] and transnational digital ministries.
+- **7-0 [[Policy]]** — The Taiwan model as synthesis of US, PRC, EU "digital empires" ([[Anu-Bradford]]); proposed 1% of GDP for [[Digital-Public-Infrastructure]]; lessons from [[ARPA]] / IPTO under [[JCR-Licklider|Licklider]]; new ⿻ regulation around [[Data-Coalitions]] and transnational digital ministries.
 - **7-1 Conclusion** — Plurality as an infinite game; invitation to co-creation.
 
 ## How the book carves Plurality
 
 - **Plurality is technology for collaboration across social difference** — not "diversity" in the narrow demographic sense, but the full range of overlapping affiliations.
-- The book identifies a "narrow corridor" (Acemoglu/Robinson) between authoritarianism and social collapse, threatened from two sides by today's technology trends: anti-social erosion and centralizing surveillance/AI.
-- Plurality is positioned as a "third way" between **Libertarianism** (atomist rights, no shared structure) and **Technocracy** (centralized optimization of a single welfare function) — both diagnosed as "monist atomism".
+- The book identifies a "[[Narrow-Corridor|narrow corridor]]" ([[Daron-Acemoglu|Acemoglu]] / [[James-Robinson|Robinson]]) between authoritarianism and social collapse, threatened from two sides by today's technology trends: anti-social erosion and centralizing [[Surveillance-Capitalism|surveillance]]/AI.
+- Plurality is positioned as a "third way" between **[[Libertarianism]]** (atomist rights, no shared structure) and **[[Technocracy]]** (centralized optimization of a single welfare function) — both diagnosed as "[[Monist-Atomism|monist atomism]]".
 - The Mandarin character pair 數位 captures the dual meaning "digital" / "plural" — central to the book's framing.
 - Taiwan is presented as the leading real-world embodiment, with [[Audrey-Tang]] as its inaugural Minister of Digital Affairs.
 

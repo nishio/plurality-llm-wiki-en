@@ -14,8 +14,8 @@ From [[plurality-book]] chapter **2-1 A View From Yushan**, the Sunflower Moveme
 The book treats the movement as a pivot point:
 
 - it led to a change of government and the rise of new political parties;
-- the government invited younger "reverse mentors" from civil society to help officials learn from youth — including Jaclyn Tsai, one of the world's first ministers in charge of digital participation;
-- Tsai recruited [[Audrey-Tang]], who ultimately took the role in 2016 and in 2022 became Taiwan's first Minister of Digital Affairs;
+- the government invited younger "reverse mentors" from civil society to help officials learn from youth — including [[Jaclyn-Tsai]], one of the world's first ministers in charge of digital participation;
+- [[Jaclyn-Tsai|Tsai]] recruited [[Audrey-Tang]], who ultimately took the role in 2016 and in 2022 became Taiwan's first Minister of Digital Affairs;
 - the technologies developed in and after the movement — including civic-tech tools like [[vTaiwan]] — became part of Taiwan's distinctive [[Digital-Democracy]].
 
 ## Comparison the book draws

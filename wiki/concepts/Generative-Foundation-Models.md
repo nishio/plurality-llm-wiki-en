@@ -7,7 +7,7 @@ sources:
 
 ## Definition
 
-The term **Generative Foundation Models** (GFMs) is used throughout [[plurality-book]] in preference to "AI" (which the book finds carries too much mystique and false implication of autonomy). GFMs are large pre-trained models — the book names BERT and GPT as examples — based on the artificial-neural-network tradition initiated by Frank Rosenblatt in the 1950s.
+The term **Generative Foundation Models** (GFMs) is used throughout [[plurality-book]] in preference to "[[AGI|AI]]" (which the book finds carries too much mystique and false implication of autonomy). GFMs are large pre-trained models — the book names BERT and GPT as examples — based on the artificial-neural-network tradition initiated by Frank Rosenblatt in the 1950s.
 
 ## Ambivalent treatment
 

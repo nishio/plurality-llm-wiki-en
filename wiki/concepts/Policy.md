@@ -7,7 +7,7 @@ sources:
 
 ## Definition
 
-From [[plurality-book]] chapter **7-0 Policy**, "Policy" in the Plural sense names a deliberate alternative to the three dominant policy models that legal scholar Anu Bradford in *Digital Empires* identifies:
+From [[plurality-book]] chapter **7-0 Policy**, "Policy" in the Plural sense names a deliberate alternative to the three dominant policy models that legal scholar [[Anu-Bradford]] in *Digital Empires* identifies:
 
 - the **US** model — neoliberal, private-sector-driven free market;
 - the **PRC** model — state-driven, national-security and party-aligned tech development;

@@ -35,9 +35,9 @@ The book is careful that Digital Democracy is **not** just porting existing voti
 
 From [[plurality-book]], Taiwan's particular form of Digital Democracy synthesizes:
 
-- [[Tridemism]] (Sun Yat-Sen's Three Principles of the People), especially ethnic pluralism and civil livelihood;
-- John Dewey's pragmatist experimentalism (transmitted via Hu Shih);
-- Henry George's land-value taxation (the 1977 land-value tax in Taiwan);
+- [[Tridemism]] ([[Sun-Yat-Sen]]'s Three Principles of the People), especially ethnic pluralism and civil livelihood;
+- [[John-Dewey]]'s pragmatist experimentalism (transmitted via [[Hu-Shih]]);
+- [[Henry-George]]'s land-value taxation (the 1977 land-value tax in Taiwan);
 - post-war rural land reform and a strong cooperative "Third Sector";
 - and a civic-tech tradition rising from the [[Sunflower-Movement]].
 

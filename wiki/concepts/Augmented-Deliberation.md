@@ -21,7 +21,7 @@ Augmented Deliberation seeks to use software, AI, and facilitation methods to ma
 
 ## Bridging algorithms
 
-A central technical idea: rather than recommending content predicted to maximize engagement (which tends to entrench filter bubbles per Cass Sunstein's *#republic*), bridging algorithms surface content that earns approval from **diverse** clusters of users. The book argues bridging algorithms — like Community Notes — are exposed to hundreds of millions of people weekly and constitute the largest-scale concrete instance of Plurality on the contemporary internet.
+A central technical idea: rather than recommending content predicted to maximize engagement (which tends to entrench filter bubbles per [[Cass-Sunstein]]'s *#republic*), bridging algorithms surface content that earns approval from **diverse** clusters of users. The book argues bridging algorithms — like Community Notes — are exposed to hundreds of millions of people weekly and constitute the largest-scale concrete instance of Plurality on the contemporary internet.
 
 ## Broad listening
 

@@ -15,7 +15,7 @@ The book frames Connected Society as the social-philosophical mirror of complexi
 
 - people as bundles of overlapping group memberships (religion, profession, ethnolinguistic, ideology, gender, ability, generation, etc.);
 - groups as themselves intersecting and dynamic, constantly forming and reconfiguring;
-- the **bidirectional equilibrium** between diversity of people and the social groups they create as the essence of social science (the book cites Mark Granovetter, *Economic Action and Social Structure*).
+- the **bidirectional equilibrium** between diversity of people and the social groups they create as the essence of social science (the book cites [[Mark-Granovetter]], *Economic Action and Social Structure*).
 
 ## Many dimensions of diversity
 

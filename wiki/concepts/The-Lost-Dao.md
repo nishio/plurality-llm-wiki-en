@@ -14,8 +14,8 @@ sources:
 [[plurality-book]] centers the chapter on three figures:
 
 - **[[JCR-Licklider]]** (Lick) — wrote the 1963 "Memorandum For Members and Affiliates of the Intergalactic Computer Network" and led the **Information Processing Techniques Office (IPTO)** at ARPA, funding the research network that became the internet. The book treats Lick as its protagonist of "what could have been".
-- **Doug Engelbart** — pioneered networked collaborative computing (the 1968 "Mother of All Demos").
-- **Ted Nelson** — Project Xanadu, two-way bidirectional hyperlinks, transclusion, micropayments to creators.
+- **[[Doug-Engelbart]]** — pioneered networked collaborative computing (the 1968 "Mother of All Demos").
+- **[[Ted-Nelson]]** — Project Xanadu, two-way bidirectional hyperlinks, transclusion, micropayments to creators.
 
 ## What was lost
 
@@ -40,7 +40,7 @@ It also flags the **web3 / decentralized web** ecosystems, India's **India Stack
 
 ## Why "Dao"
 
-The chapter name plays on the Mandarin Daoist tradition that the book argues was congenial to John Dewey's pragmatism and to the Taiwanese democratic tradition: a "way" that is processual, experimental, and emerges from collaboration across difference rather than from imposed law.
+The chapter name plays on the Mandarin Daoist tradition that the book argues was congenial to [[John-Dewey]]'s pragmatism and to the Taiwanese democratic tradition: a "way" that is processual, experimental, and emerges from collaboration across difference rather than from imposed law.
 
 ## Related concepts
 

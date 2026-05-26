@@ -19,7 +19,7 @@ From [[plurality-book]], Plurality has three tightly connected components, each 
 
 ## Contrast with Libertarianism and Technocracy
 
-A core move in [[plurality-book]] is to position Plurality against what it calls **monist atomism** — the shared root of both Libertarianism (atomistic individuals defended by immutable rights) and Technocracy (centralized optimization of a single welfare function). Plurality instead foregrounds intersecting groups, multi-scale organization, and emergence — analogous to the shift in twentieth-century science from reductionism to complexity, networks, and ecosystems.
+A core move in [[plurality-book]] is to position Plurality against what it calls **[[Monist-Atomism]]** — the shared root of both [[Libertarianism]] (atomistic individuals defended by immutable rights) and [[Technocracy]] (centralized optimization of a single welfare function). Plurality instead foregrounds intersecting groups, multi-scale organization, and emergence — analogous to the shift in twentieth-century science from reductionism to complexity, networks, and ecosystems.
 
 ## Why "Digital" and "Plural" together
 

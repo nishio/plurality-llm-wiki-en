@@ -13,11 +13,11 @@ Quadratic Voting (QV) is a voting mechanism in which a voter who wants to cast *
 - decisions reflecting "the greatest good for the greatest number" rather than mere majority rule,
 - escape from several pathologies of plurality voting (Duverger's Law, tyranny of the majority).
 
-The book attributes the original "square-root rule" intuition to the statistician Lionel Penrose (1946) and credits Glen Weyl as the inventor of the modern QV variant.
+The book attributes the original "square-root rule" intuition to the statistician [[Lionel-Penrose]] (1946) and credits [[Glen-Weyl]] as the inventor of the modern QV variant.
 
 ## Why squared cost
 
-[[plurality-book]] gives a physical-analogy argument it traces to [[JCR-Licklider]] (1948 work on auditory signal detection): when *N* independent voters' signals are uncorrelated, they grow only as √N, while a single correlated signal grows as N. Thus a holder of stake should be awarded power that grows as the **square root** of their stake — equivalently, the **cost** of votes grows as the **square** of votes cast. The same logic justifies Penrose's square-root voting (used in some EU Council voting weights) at the level of countries, and QV at the level of individuals on issues.
+[[plurality-book]] gives a physical-analogy argument it traces to [[JCR-Licklider]] (1948 work on auditory signal detection): when *N* independent voters' signals are uncorrelated, they grow only as √N, while a single correlated signal grows as N. Thus a holder of stake should be awarded power that grows as the **square root** of their stake — equivalently, the **cost** of votes grows as the **square** of votes cast. The same logic justifies [[Lionel-Penrose|Penrose]]'s square-root voting (used in some EU Council voting weights) at the level of countries, and QV at the level of individuals on issues.
 
 ## Where it has been used
 
@@ -34,7 +34,7 @@ The book points to applied uses of QV including:
 
 - **Correlation discounting / eigenvoting** — applying degressive proportionality to underlying "principal" social factors, not raw individuals.
 - **Quadratic [[Liquid-Democracy]]** — combining QV with delegated voting.
-- **Predictive voting / Futarchy** — Robin Hanson's idea of voting on values, betting on beliefs.
+- **Predictive voting / [[Futarchy]]** — [[Robin-Hanson]]'s idea of voting on values, betting on beliefs.
 
 ## Related concepts
 

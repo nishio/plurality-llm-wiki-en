@@ -41,6 +41,13 @@ Part of the multilingual [plurality-llm-wiki](https://github.com/nishio/pluralit
 - [Policy](concepts/Policy.md)
 - [Digital Public Infrastructure](concepts/Digital-Public-Infrastructure.md)
 
+### Foil ideologies and adjacent concepts
+- [Technocracy](concepts/Technocracy.md) and [Libertarianism](concepts/Libertarianism.md) — the two "monist atomism" worldviews Plurality is positioned against
+- [Monist Atomism](concepts/Monist-Atomism.md) — their shared metaphysical commitment
+- [AGI](concepts/AGI.md), [Universal Basic Income](concepts/Universal-Basic-Income.md), [Network State](concepts/Network-State.md) — Technocracy / Libertarianism touchstones
+- [Surveillance Capitalism](concepts/Surveillance-Capitalism.md), [Narrow Corridor](concepts/Narrow-Corridor.md) — framing borrowed from Zuboff and Acemoglu/Robinson
+- [Futarchy](concepts/Futarchy.md), [Cybernetics](concepts/Cybernetics.md) — adjacent mechanisms / pre-history
+
 ## Entities
 
 ### Authors and key thinkers
@@ -50,6 +57,17 @@ Part of the multilingual [plurality-llm-wiki](https://github.com/nishio/pluralit
 - [Danielle Allen](entities/Danielle-Allen.md) — normative pillar of Plurality
 - [JCR Licklider](entities/JCR-Licklider.md) — protagonist of *The Lost Dao*
 
+### Genealogy of Plurality (brief mentions, contextualized)
+- Lost Dao trio: [Doug Engelbart](entities/Doug-Engelbart.md), [Ted Nelson](entities/Ted-Nelson.md)
+- Connected Society pre-history: [Mark Granovetter](entities/Mark-Granovetter.md), [Georg Simmel](entities/Georg-Simmel.md), [Norbert Wiener](entities/Norbert-Wiener.md), [John Dewey](entities/John-Dewey.md)
+- Tridemism and Taiwan: [Sun Yat-Sen](entities/Sun-Yat-Sen.md), [Henry George](entities/Henry-George.md), [Hu Shih](entities/Hu-Shih.md), [Chiang Kai-Shek](entities/Chiang-Kai-Shek.md), [Jaclyn Tsai](entities/Jaclyn-Tsai.md)
+- Plural Voting lineage: [Lionel Penrose](entities/Lionel-Penrose.md), [Charles Dodgson](entities/Charles-Dodgson.md), [Robin Hanson](entities/Robin-Hanson.md)
+- Other thinkers cited briefly: [Anu Bradford](entities/Anu-Bradford.md), [Cass Sunstein](entities/Cass-Sunstein.md), [Daron Acemoglu](entities/Daron-Acemoglu.md), [James Robinson](entities/James-Robinson.md), [Shoshana Zuboff](entities/Shoshana-Zuboff.md), [Marc Andreessen](entities/Marc-Andreessen.md)
+
+### Foils — figures the book names as exemplars of Technocracy / Libertarianism
+- Technocracy: [Sam Altman](entities/Sam-Altman.md), [Elon Musk](entities/Elon-Musk.md), [Reid Hoffman](entities/Reid-Hoffman.md), [Andrew Yang](entities/Andrew-Yang.md), [Ray Kurzweil](entities/Ray-Kurzweil.md), [Nick Bostrom](entities/Nick-Bostrom.md), [Isaac Asimov](entities/Isaac-Asimov.md), [Iain M. Banks](entities/Iain-M-Banks.md)
+- Libertarianism: [Peter Thiel](entities/Peter-Thiel.md), [Curtis Yarvin](entities/Curtis-Yarvin.md), [Balaji Srinivasan](entities/Balaji-Srinivasan.md), [Ayn Rand](entities/Ayn-Rand.md), [John Perry Barlow](entities/John-Perry-Barlow.md), [Neal Stephenson](entities/Neal-Stephenson.md)
+
 ### Institutions and projects
 - [RadicalxChange](entities/RadicalxChange.md)
 - [vTaiwan](entities/vTaiwan.md)
@@ -57,6 +75,7 @@ Part of the multilingual [plurality-llm-wiki](https://github.com/nishio/pluralit
 - [g0v](entities/g0v.md)
 - [Gitcoin](entities/Gitcoin.md)
 - [ARPA](entities/ARPA.md) (and IPTO under Licklider)
+- [Academia Sinica](entities/Academia-Sinica.md)
 
 ## Sources
 

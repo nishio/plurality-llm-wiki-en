@@ -9,7 +9,7 @@ sources:
 
 From [[plurality-book]] chapter **5-6 Plural Voting**, Liquid Democracy (LD) extends proportional representation by letting any voter **delegate their vote(s) to anyone else**, who may **re-delegate** in turn, producing dynamic, emergent patterns of representation rather than fixed elected bodies.
 
-The book traces the idea to Charles Dodgson (the mathematician better known as Lewis Carroll, *The Principles of Parliamentary Representation*, 1884), who first studied the question of weighting votes for people holding multiple votes — the same line of thinking that later led to [[Quadratic-Voting]].
+The book traces the idea to [[Charles-Dodgson]] (the mathematician better known as Lewis Carroll, *The Principles of Parliamentary Representation*, 1884), who first studied the question of weighting votes for people holding multiple votes — the same line of thinking that later led to [[Quadratic-Voting]].
 
 ## Where it appears
 
@@ -31,7 +31,7 @@ A footnote in [[plurality-book]] flags a related concept — **dividual democrac
 
 ## Related concepts
 
-- [[Quadratic-Voting]] — same intellectual lineage (Penrose, Dodgson)
+- [[Quadratic-Voting]] — same intellectual lineage ([[Lionel-Penrose|Penrose]], [[Charles-Dodgson|Dodgson]])
 - [[Plural-Voting]] — umbrella term
 - [[Identity-and-Personhood]] — LD presupposes a workable identity layer
 - LD is implemented at internet scale only when paired with adequate identity infrastructure
