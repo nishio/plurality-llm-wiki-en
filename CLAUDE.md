@@ -1,66 +1,109 @@
 # plurality-llm-wiki-en
 
-## テーマ
-Plurality concepts as carved by English-language discourse (Plurality book EN, Audrey Tang talks, etc.). Part of plurality-llm-wiki multilingual wiki森.
+## Theme
+Plurality concepts as carved by **English-language discourse**. Sources include the *Plurality* book (EN edition), Audrey Tang's talks, the 6pack.care site, Plurality Events, and surrounding community discussion.
 
-## ディレクトリ構造
+Part of the multilingual [plurality-llm-wiki](https://github.com/nishio/plurality-llm-wiki) wiki森. This wiki is **autonomous** — pages are not required to be translations of, or aligned with, the ja-side wiki ([plurality-llm-wiki-ja](https://github.com/nishio/plurality-llm-wiki-ja)).
+
+> Each language carves the conceptual space differently. The differences themselves are what this wiki森 aims to observe and analyze — diversity creates value.
+
+## Directory Structure
 
 ```
 plurality-llm-wiki-en/
-├── CLAUDE.md          # このファイル（スキーマ）
-├── raw/               # 生のソース（不変、gitignored）
-├── wiki/              # LLMが生成・維持するwiki
-│   ├── index.md       # 全ページのカタログ
-│   ├── log.md         # 時系列の作業記録
-│   ├── concepts/      # 概念ページ
-│   ├── entities/      # 人物・ツール・プロジェクト
-│   ├── sources/       # ソースの要約
-│   └── analyses/      # 問いから生まれた考察
-└── scripts/
-    └── lint_wiki.py   # wikiの健全性チェック
+├── CLAUDE.md                          # this file
+├── raw/                               # raw sources (gitignored)
+├── wiki/
+│   ├── index.md                       # human-facing curated navigation
+│   ├── index.txt                      # AI-facing full catalog (auto-generated)
+│   ├── log.md                         # human-facing recent 7 days (full detail)
+│   ├── log.txt                        # AI-facing compact full history (auto-generated)
+│   ├── concepts/                      # concept pages
+│   ├── entities/                      # people, tools, projects
+│   ├── sources/                       # source summaries
+│   └── analyses/                      # analyses born from inquiry
+├── scripts/
+│   ├── lint_wiki.py                   # wiki health check
+│   ├── build_index_txt.py             # regenerate index.txt from frontmatter
+│   └── refresh_logs.py                # sync log.txt + 7-day window in log.md
+├── quartz/                            # Quartz for GitHub Pages delivery
+├── quartz.config.ts / quartz.layout.ts
+├── package.json / pnpm-lock.yaml
+└── .github/workflows/deploy-pages.yml # auto-deploy on push to main
 ```
 
-## ページルール
+## Cross-language correspondences
 
-### 全ページ共通
-- 冒頭にYAMLフロントマター：type, summary, sources
-- 主張には出典を明記：`[[source名]]より`
-- 矛盾・未解決の論点は「## Open Questions」セクションで明示
-- 更新は上書きせず「## Updates」で追記
+Inter-language concept mapping lives in the parent's [correspondences.yaml](https://github.com/nishio/plurality-llm-wiki/blob/main/correspondences.yaml). It's the Wikipedia interlanguage-link equivalent — a row asserts "these concepts are about the same/related topic" without claiming content equivalence.
 
-### フロントマター例
+When you add a new concept page here:
+- Either add a row to `correspondences.yaml` pairing it with the ja-side concept (or null for "no equivalent"),
+- Or explicitly leave a gap (ja: ~) — that's a recorded observation, not an oversight.
+
+## Page Rules
+
+### Common to all pages
+- Start with YAML frontmatter: `type`, `summary`, `sources`
+- Cite sources with `[[source-name]]より` (or `from [[source-name]]`)
+- Use `## Open Questions` for unresolved contradictions
+- Update by appending under `## Updates`, not by overwriting
+- Wikilinks use `[[Page Name]]` (Wikipedia double-bracket style)
+
+### Frontmatter example
 ```yaml
 ---
 type: concept
-summary: 1文で説明
+summary: 1-sentence description
 sources:
-  - source-name.md
+  - source-page-name.md
 ---
 ```
 
-## 操作
+## Operations
 
-### Ingest（ソース取り込み）
-1. raw/の新ファイルを読む（a.txtのような名前なら適切にリネーム）
-2. 既存wikiページと照合
-3. 関連ページを更新 or 新規作成
-4. index.mdを更新
-5. log.mdに `## [YYYY-MM-DD HH:MM] ingest | <description>` を記録
+### Index maintenance (AI/human split, kouchou pattern)
 
-### Query（質問）
-1. wiki/を検索して回答を作成
-2. 有用な回答はanalyses/にfiling back
-3. log.mdに `## [YYYY-MM-DD HH:MM] filing-back | <description>` を記録
+- **`wiki/index.md`** — human-curated navigation. Edit manually. Holds onboarding, Concepts/Entities curated entries.
+- **`wiki/index.txt`** — AI-facing full catalog. **Do not edit by hand.** Regenerate after adding/renaming/deleting any page or changing a frontmatter `summary`:
+  ```sh
+  python3 scripts/build_index_txt.py
+  ```
 
-### Lint（健全性チェック）
-1. 機械的: `python3 scripts/lint_wiki.py`（孤立・壊れたリンク・未登録など）
-2. 意味的: 矛盾・stale claim・概念ページ不足・新質問の提案
-3. 完了後 `## [YYYY-MM-DD HH:MM] lint | <summary>` を log.md に記録
+### Log maintenance (AI/human split, kouchou pattern)
 
-> 時刻を含めるのは、深夜lint(`02:00`)と同日ingestの順序を区別するため。`[YYYY-MM-DD]`（時刻なし）は当日23:59として扱われる（後方互換）。
+- **`wiki/log.md`** — human-facing recent 7 days, full detail, newest first. Add entries to the top manually with `## [YYYY-MM-DD HH:MM] <type> | <title>`.
+- **`wiki/log.txt`** — AI-facing all-history compact log. **Do not edit by hand.** Regenerate after adding a new log.md entry:
+  ```sh
+  python3 scripts/refresh_logs.py
+  ```
 
-## 運用方針
+`refresh_logs.py` drops lint-type entries (no-finding lints are not logged) and prunes log.md entries older than 7 days while preserving them in log.txt.
 
-- ソースは「参考」であり無批判に採用しない
-- 実験を通じて得た自分自身の気づきを重視
-- スキーマ（このファイル）も実験を通じて改善していく
+### Ingest (raw → wiki)
+1. Read new files in `raw/` (rename meaningfully if needed)
+2. Cross-reference with existing wiki pages
+3. Update existing pages or create new ones (frontmatter required)
+4. Run `python3 scripts/build_index_txt.py` after page set changes
+5. Add `## [YYYY-MM-DD HH:MM] ingest | <description>` to top of log.md
+6. Run `python3 scripts/refresh_logs.py`
+7. If new concepts may correspond to ja-side concepts, update parent's `correspondences.yaml`
+
+### Query
+1. Search `wiki/` for the answer
+2. File back useful answers into `analyses/`
+3. Log as `filing-back` and run `refresh_logs.py`
+
+### Lint
+1. Mechanical: `python3 scripts/lint_wiki.py`
+2. Semantic: contradictions, stale claims, missing concept pages, new questions
+3. Only log lints that actually found and fixed something (no-finding lints are silently dropped by `refresh_logs.py`)
+
+## GitHub Pages
+
+`main` push triggers `.github/workflows/deploy-pages.yml` which builds the Quartz site and deploys to https://nishio.github.io/plurality-llm-wiki-en/.
+
+## Operating principles
+
+- Sources are *references*, not authoritative — adopt critically
+- Don't force translation parity with the ja wiki — differences are the point
+- The schema (this file) evolves through use
