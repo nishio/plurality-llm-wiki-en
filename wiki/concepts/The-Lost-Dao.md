@@ -53,3 +53,19 @@ The chapter name plays on the Mandarin Daoist tradition that the book argues was
 
 - How much of the "loss" was technological inevitability vs. specific policy failure? [[plurality-book]] argues mostly the latter.
 - Are web3 and the decentralized-web movement faithful inheritors of Lick's vision, or do they import too much libertarian / financialized framing?
+
+## Updates
+
+### 2026-05-27: "Another lost Dao" — Japanese cybernetics → Nameraka Society added in PR #1055
+
+From [[pluralitybook-upstream-2024-2026]] (PR #1055, Taiyou, merged 2025-01-23, ~37-line new sub-section "Quality Control and Nameraka Society"): chapter 3-3 now contains **a second cybernetic genealogy parallel to the principal Licklider / Engelbart / Nelson Lost Dao**. Wiener's ideas flowed not only westward into ARPA / IPTO / the internet but also **eastward** via W. Edwards Deming's 1950 JUSE-sponsored Quality Control lectures into Toyota and the broader Japanese manufacturing tradition (PDCA, Kaizen, Deming Prize 1951, Toyota's win in 1965), and from there — via Stuart Kauffman's 1980s complex systems work — into [[Ken-Suzuki]]'s [[Nameraka-Society]] vision. The sub-section closes by calling the Japanese line "another lost dao": parallel to the principal Lost Dao, both descended from Wiener, both attempting to extend cybernetic feedback into society at large.
+
+Note the **asymmetry**: PDCA and Kaizen were industrially *adopted* (not lost) in Japan; what is "lost" in the second lineage is the *social-theoretical extension* (Suzuki's Nameraka), not the engineering practice. This is a different shape of "loss" from the principal Lost Dao, where the technological substrate itself (Lick's Plural ARPA vision) was abandoned.
+
+### 2026-05-27: Hal Seki / sinsai.info / Code for Japan added to the Civic Tech paragraph
+
+From [[pluralitybook-upstream-2024-2026]] (PR #1049 Taiyou, refined by PR #1056): the GovTech / Civic Tech paragraph of 3-3 now names [[Hal-Seki]] as the Japanese counterpart to Jennifer Pahlka (Code for America) and Beth Simone Noveck (The GovLab). Seki **led the creation of sinsai.info** (data collection and visualisation platform after the 2011 Great East Japan Earthquake) and **later founded Code for Japan**. The disaster-response framing is genealogically distinct from the US Code4America "open-source style government delivery" lineage.
+
+### 2026-05-27: explicit Anno cross-reference
+
+PR #1055's closing paragraph names [[Takahiro-Anno]]'s 2024 Tokyo gubernatorial campaign as the contemporary realisation of the Nameraka lineage — a forward link from 3-3 (theoretical lineage) to 5-4 (electoral case study). The two PRs by the same Japanese contributor cluster (Taiyou + nishio, December 2024 / January 2025) thus together stitch a [[Ken-Suzuki|Suzuki]] → [[Nameraka-Society|Nameraka]] → [[Takahiro-Anno|Anno]] thread through the English manuscript.

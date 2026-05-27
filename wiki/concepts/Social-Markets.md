@@ -47,3 +47,21 @@ The book takes care to acknowledge the historical achievements of global capital
 
 - How are Social Markets governed at scale? Without a state, who issues the matching funds in a global Quadratic Funding round?
 - The book is careful not to claim Social Markets fit into a single welfare function — but practitioners need *some* way to evaluate them; what fills that gap?
+
+## Updates
+
+### 2026-05-27: PICSY repositioned as intertemporal mechanism (PR #1051)
+
+From [[pluralitybook-upstream-2024-2026]] (PR #1051, Taiyou, merged 2024-12-21): the upstream EN manuscript has **moved the PICSY footnote from chapter 5-6 to chapter 5-7** and reattached it specifically to the **inter-temporal economic systems** bullet of "⿻ funding across boundaries" (the "ministry for the future" passage citing Robinson). The new footnote reads:
+
+> "A notable example of inter-temporal economic systems is **PICSY (Propagational Investment Currency SYstem)** developed by Ken Suzuki. PICSY is a value propagation system which tracks past transactions as contributions and assigns a portion of recent contributions to past contributors. Thus, in the framework of PICSY, transactions are track records for investments."
+
+This is a real conceptual move: PICSY in the PDF era was filed near liquid democracy as a *delegation-related* idea. In the upstream era PICSY is filed alongside Kim Stanley Robinson's *Ministry for the Future* as a *cross-generational matching-fund* idea. See [[Ken-Suzuki]] and [[Nameraka-Society]] for the broader lineage.
+
+### 2026-05-27: ChoreWheel added (PR #1062)
+
+From [[pluralitybook-upstream-2024-2026]] (PR #1062, kronosapiens, merged 2025-02-19): the "Economies esteem" bullet now carries a `[^ChoreWheel]` footnote citing **Daniel Kronovet, Seth Frey, Joseph DeSimone, "Cybernetic Governance in a Coliving House" (SSRN abstract 4856267, May 2024)**. ChoreWheel is a coliving-house governance system implemented as a Social Markets / esteem-economy artifact at small scale. Read as a data point: Social Markets thinking is reaching down into household-scale governance, not only firm-scale or polity-scale.
+
+### 2026-05-27: Reinventing Organizations cited as ⿻ management exemplar
+
+The "⿻ management" bullet in chapter 5-7 now includes (PR #1062): "[Reinventing Organizations](https://en.wikipedia.org/wiki/Reinventing_Organizations) provides a useful overview of organizational practices we might now understand as ⿻." This is a retroactive read of Frédéric Laloux's 2014 *Reinventing Organizations* as a Plurality-adjacent text, alongside the existing [[Plural-Management-Protocol]] citation.

@@ -31,3 +31,14 @@ The chapter explicitly raises the dystopian counter: post-symbolic sharing could
 
 - The chapter is the most speculative in the book; no near-term policy implications follow.
 - Whether "post-symbolic" is a meaningful category (since brain-to-brain interfaces themselves require symbolic encoding) is left open.
+
+## Updates
+
+### 2026-05-27: Clancy / Lowry footnotes added upstream (PR #1061)
+
+From [[pluralitybook-upstream-2024-2026]] (PR #1061, kronosapiens, merged 2025-02-19): chapter 5-1 now carries two new pop-sci-flavoured footnotes:
+
+- A **`[^Clancy]` footnote on romantic intimacy** citing Kelly Clancy's 2024 *Playing With Reality* — Clancy speculates that *Homo sapiens*' large pre-frontal cortex evolved not (as in the social-brain hypothesis) for managing many social relationships but rather for managing **a single highly complex relationship with a romantic partner**. The book treats wider social use of the larger brain as a "happy accident."
+- A **`[^Lowry]` footnote on cross-generational experience-sharing** citing Lois Lowry's 1993 young adult novel *The Giver* — used to illustrate the "frontier" possibility of children learning from ancestors' lived experiences via post-symbolic channels.
+
+These are minor but stylistically notable: the chapter's references widen from neuroscience / VR engineering to include popular-science speculation and young-adult fiction, which fits its already speculative tone.

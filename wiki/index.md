@@ -43,6 +43,7 @@ Part of the multilingual [plurality-llm-wiki](https://github.com/nishio/pluralit
 
 ### Post-book extensions
 - [Civic AI](concepts/Civic-AI.md) — Audrey Tang & Caroline Green's 6-Pack of Care framework
+- [Nameraka Society](concepts/Nameraka-Society.md) — Ken Suzuki's "smooth society" vision, added to chapter 3-3 in 2025 as "another lost Dao"
 
 ### Foil ideologies and adjacent concepts
 - [Technocracy](concepts/Technocracy.md) and [Libertarianism](concepts/Libertarianism.md) — the two "monist atomism" worldviews Plurality is positioned against
@@ -68,6 +69,7 @@ Part of the multilingual [plurality-llm-wiki](https://github.com/nishio/pluralit
 - Tridemism and Taiwan: [Sun Yat-Sen](entities/Sun-Yat-Sen.md), [Henry George](entities/Henry-George.md), [Hu Shih](entities/Hu-Shih.md), [Chiang Kai-Shek](entities/Chiang-Kai-Shek.md), [Jaclyn Tsai](entities/Jaclyn-Tsai.md)
 - Plural Voting lineage: [Lionel Penrose](entities/Lionel-Penrose.md), [Charles Dodgson](entities/Charles-Dodgson.md), [Robin Hanson](entities/Robin-Hanson.md)
 - Other thinkers cited briefly: [Anu Bradford](entities/Anu-Bradford.md), [Cass Sunstein](entities/Cass-Sunstein.md), [Daron Acemoglu](entities/Daron-Acemoglu.md), [James Robinson](entities/James-Robinson.md), [Shoshana Zuboff](entities/Shoshana-Zuboff.md), [Marc Andreessen](entities/Marc-Andreessen.md)
+- Japan-side figures folded into the EN manuscript post-PDF: [Ken Suzuki](entities/Ken-Suzuki.md), [Takahiro Anno](entities/Takahiro-Anno.md), [Hal Seki](entities/Hal-Seki.md)
 
 ### Foils — figures the book names as exemplars of Technocracy / Libertarianism
 - Technocracy: [Sam Altman](entities/Sam-Altman.md), [Elon Musk](entities/Elon-Musk.md), [Reid Hoffman](entities/Reid-Hoffman.md), [Andrew Yang](entities/Andrew-Yang.md), [Ray Kurzweil](entities/Ray-Kurzweil.md), [Nick Bostrom](entities/Nick-Bostrom.md), [Isaac Asimov](entities/Isaac-Asimov.md), [Iain M. Banks](entities/Iain-M-Banks.md)
@@ -85,7 +87,8 @@ Part of the multilingual [plurality-llm-wiki](https://github.com/nishio/pluralit
 ## Sources
 
 ### The book
-- [Plurality book](sources/plurality-book.md) — *Plurality: The Future of Collaborative Technology and Democracy* (Weyl, Tang & community, 2024, CC0)
+- [Plurality book](sources/plurality-book.md) — *Plurality: The Future of Collaborative Technology and Democracy* (Weyl, Tang & community, 2024, CC0) — PDF-baseline snapshot
+- [pluralitybook/plurality upstream 2024-2026](sources/pluralitybook-upstream-2024-2026.md) — post-PDF English-manuscript changes (PRs, Issues, commits) folded into this wiki
 
 ### Audrey Tang post-book talks / essays (2025–2026)
 - [audreyt.org profile](sources/audreyt-org-profile.md) — site index, recognitions, publications list

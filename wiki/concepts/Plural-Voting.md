@@ -43,3 +43,13 @@ It also notes voting systems are unlikely soon to stretch beyond national bounda
 - [[Quadratic-Voting]], [[Quadratic-Funding]], [[Liquid-Democracy]]
 - [[Augmented-Deliberation]] — deeper but smaller-scale
 - [[Identity-and-Personhood]] — substrate for any Plural voting system
+
+## Updates
+
+### 2026-05-27: compulsory voting (Australia) added as a Duverger-amplifier (PR #1040)
+
+From [[pluralitybook-upstream-2024-2026]] (PR #1040, SamRoizen, merged 2024-12-21): chapter 5-6 now adds a sentence and footnote on **Australia's compulsory voting policy** — the AEC's 2022 *Compulsory Voting in Australia* (Tim Evans) is cited. The upshot in the manuscript: compulsory voting can raise turnout *and* intensify the "lesser of two evils" pressure under plurality rule, because abstention is no longer available as an escape valve. This is a useful empirical hook for the chapter's Duverger discussion.
+
+### 2026-05-27: divicracy footnote completely rewritten — see [[Liquid-Democracy]] §Updates
+
+The chapter's footnote on dividual democracy / divicracy was rewritten by PR #1050 to centre [[Ken-Suzuki]]'s vote-splitting mechanism (not just delegation) and to cite *The Nameraka Society and its Enemies* (2013). Full detail is on the [[Liquid-Democracy]] page; [[Nameraka-Society]] and [[Ken-Suzuki]] hold the broader lineage.

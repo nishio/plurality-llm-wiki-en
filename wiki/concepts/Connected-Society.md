@@ -36,3 +36,9 @@ A key claim from [[plurality-book]] is that bridging across difference plays a *
 
 - How is the *rate* of bridging-tie formation measured in practice? The book uses social-network notions but does not propose a single metric.
 - Connected Society as articulated is highly cosmopolitan; how does it relate to communities whose self-definition includes resistance to bridging (religious enclaves, cultural preservation movements)?
+
+## Updates
+
+### 2026-05-27: Henry George wording sharpened upstream (PR #1066)
+
+From [[pluralitybook-upstream-2024-2026]] (PR #1066, garethjwhelan, merged 2025-02-19): the chapter's opening lineage paragraph used to call [[Henry-George]] "a searing critic of private property" — this overstated his actual position. The upstream EN manuscript now reads "a searing critic of private property **in land**." George opposed private rent on land specifically (the Single Tax movement), not private property in general. The wiki page on [[Henry-George]] should be read with this correction in mind.

@@ -83,3 +83,13 @@ Plural technology applied to specific sectors. (This wiki summarizes rather than
 ## Notes on Citation Style in this Wiki
 
 Pages in this wiki cite this source as `from [[plurality-book]]` (or equivalent phrasing). Direct quotations are sparing; paraphrase is preferred per CC0 norms even though quotation is unrestricted.
+
+## Updates
+
+### 2026-05-27: post-PDF upstream now tracked separately
+
+[[plurality-book]] is the PDF-baseline source. The upstream `main` branch of `pluralitybook/plurality` has continued to evolve and as of survey date 2026-05-27 is ~1,737 commits ahead of the PDF snapshot (tag `20240226`, commit `a5cb02ea`) across ~300 files. Substantive English-language additions made after the PDF release are tracked separately in [[pluralitybook-upstream-2024-2026]]. Concept and entity pages cite *both* sources when a claim is upstream-only and not in the PDF.
+
+Notable structural change: in 2024 every chapter file was renamed (e.g. `01-preface.md` → `1-preface.md`, `02-00-...` → `2-0-...`) and a new chapter **3-2 Connected Society** was promoted to its own file (previously content was woven into 3-1 and 3-3 in the PDF era). This wiki's chapter numbering follows the upstream post-rename convention; the PDF's older `02-01` style numbering is no longer used.
+
+Notable factual correction adopted upstream: chapter 2-1 [[Sunflower-Movement|A View from Yushan]]'s sentence about US "supporting" UNGA Resolution 2758 (1971) was corrected in PR #1117 (audreyt, 2026-02-19) after Issue #1116 (nishio) pointed out the US in fact voted **against** Resolution 2758. The current upstream wording avoids the misleading "supporting" verb. The PDF-era page on this wiki may carry the older claim; readers should treat the upstream wording as canonical.
