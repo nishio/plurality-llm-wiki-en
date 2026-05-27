@@ -52,3 +52,17 @@ The book points to:
 
 - How do Plural identity systems handle bad actors and authoritarian co-option (e.g. a state insisting it is the issuer of a particular credential)?
 - Can identity be made portable across jurisdictions without flattening cultural difference?
+
+## Updates
+
+### 2026-05-27: The Mulu opening vignette prefigures "right to know" / "right to contest"
+
+The chapter opens with a vignette of **Mulu**, an asylum applicant whose verifiable credentials (76 makeshift-school testimonies, 41 signed press-conference attestations, 34 government acknowledgements) substantiate her application without requiring a single trust authority. Re-read with the post-book Civic-AI material in mind, this scene reads as an early instance of what [[good-enough-ancestor-senate-canada]] now names the **right to know** (who is making decisions about you, on what data) and the **right to contest** (a path to repair without a CS degree). Tang's testimony makes explicit what the vignette only dramatised: "A black-box outcome should not be treated as due process."
+
+### 2026-05-27: Zero-knowledge precedent for the COVID contact-tracing story
+
+The chapter explicitly names **Zero-Knowledge Proofs (ZKPs)** and the **Anon-Aadhaar** project as a "partial privacy protection" that lets a user "selectively reveal only a subset of information to some entity in a provable way" (footnote 248). [[good-enough-ancestor-senate-canada]] returns to ZKPs as the substrate of Taiwan's 1922 COVID contact-tracing scheme: the venue learns nothing, the telecom learns nothing, the state learns nothing — yet recursive contact tracing still works. The book established the primitive; the Senate testimony shows the full institutional pattern of *zero-knowledge as a coalition technology*, not just a privacy fix.
+
+### 2026-05-27: "Contextual integrity" → "data as soil"
+
+The chapter (citing Helen Nissenbaum) frames what we usually call privacy as **contextual integrity**: information "meant to *stay* in the natural flow of social life", and care to ensure that "any use of it for identity verification does not violate these norms." Tang's post-book slogan **"data is not oil. Data is soil"** ([[safer-sovereignty]], [[good-enough-ancestor-senate-canada]]) is the same intuition reframed as an economic-design principle: data is locally cultivated where it grows, rather than extracted and refined elsewhere. The book argued for *contextual integrity*; the Civic-AI manifesto turns it into a *property* of model training and deployment.

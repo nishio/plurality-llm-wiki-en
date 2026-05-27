@@ -67,3 +67,7 @@ Taiwan TCloud (台灣雲市集) subsidises up to 80% of SaaS purchases for small
 ### Enterprise application
 
 From [[safer-sovereignty]]: when applied to enterprise AI, the data-as-soil principle becomes **decision sovereignty** — control not only over where data resides but over how AI may interpret it, what actions may follow, and how authority can be brought back in-house. The "first wave of data sovereignty asked, 'Where does data live?' The next must ask, 'Where does decision-making live?'"
+
+### 2026-05-27: "Ex post facto" punishment for over-sharing → Taiwan's joint platform liability
+
+[[plurality-book]] chapter 4-2 (Association and Plural Publics) notes that protecting against unilateral data over-sharing has "generally been thought essentially impossible to externally enforce", and that strategies have "focused on norms against over-sharing... attempts to make it hard to secretly over-share and policies to punish *ex post facto* those who do engage in oversharing." [[collaborative-immune-system]] reports that Taiwan's *Fraud Crime Hazard Prevention Act* now operationalises exactly this: **joint civil liability** for platforms that fail to remove infringing content within 24 hours (Article 32), with a safe harbour for good-faith removal (Article 38) — making *ex post facto* punishment for institutional over-sharing concrete and enforceable. The book identified the design pattern; the Taiwan fraud act executed it for AI-generated scam advertising.

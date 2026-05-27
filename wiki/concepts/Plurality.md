@@ -66,3 +66,11 @@ From [[civic-ai-manifesto]] (originally her 2016 ministerial job description, re
 > - When we see "machine learning," let's make it **collaborative learning.**
 > - When we see "user experience," let's make it **about human experience.**
 > - When we hear "the singularity is near" — let us remember: **The Plurality is here.**
+
+### 2026-05-27: Multi-scale "corporation as game" prefigures enterprise Kami
+
+Chapter 3-1 of the book observes that "a corporation plays in the game of global competition, yet is simultaneously itself a game played by employees, shareholders, management and customers. There is no reason to expect the resulting outcomes often to cohere as preferences." This multi-scale, non-coherent view of corporate agency directly prefigures [[safer-sovereignty]]'s argument that enterprises need *decision sovereignty* rather than a single corporate-singleton copilot: bounded local stewards (Kamis) with explicit charters for sub-domains of authority, escalation paths, and federation arrangements. The book showed why a unified-corporate-actor model is wrong; the post-book material shows the design implication for enterprise AI.
+
+### 2026-05-27: Ecosystem / mutualism / Proudhon → "society of AI permaculturists"
+
+Chapter 3-1's natural-science survey emphasises **ecology, ecosystems, mutualism, and multi-level emergence** as the post-monist-atomism scientific frame for Plurality, and footnote 123 even cites **Pierre-Joseph Proudhon's *System of Economic Contradictions*** (1846) in the lineage of biological mutualism. [[civic-ai-manifesto]]'s framing of Civic AI as "a society of AI permaculturists" rather than a singleton is the same ecological metaphor reapplied to the AI substrate. Tang's post-book preference for many bounded local Kamis over a single general-purpose gardener is the operational consequence of the descriptive component of Plurality (the social world as ecosystem, not heap-or-whole) being taken seriously at the level of AI design.

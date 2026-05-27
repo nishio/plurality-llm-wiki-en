@@ -48,3 +48,7 @@ Also from [[civic-ai-manifesto]]: two further worked examples of vTaiwan-style d
 - **Marriage equality**: polarisation occurred because one side argued for individual rights ("hūn") and the other for family kinship ("yīn"). Once this was surfaced through legitimate sensemaking, the path forward (legalising individual weddings without forcing family kinship) became clear.
 
 These are presented as proofs that "many conflicts have common knowledge problems" — the solutions become tangible "simply by ensuring local knowledge is well-known by everyone, and everyone knows that everyone knows it."
+
+### 2026-05-27: 2015 Uber case as the first Alignment Assembly template
+
+The book describes vTaiwan as the platform that "surfaced consensus on contested issues including the regulation of Uber and on policy around online sales of alcohol." With the 2024 fraud-act Alignment Assembly in view ([[collaborative-immune-system]], [[ai-alignment-cannot-be-top-down]]), the 2015 Uber case becomes legible as the **template** Taiwan refined for nearly a decade before applying it at scale to AI-generated scam ads. The shared diamond shape: open discovery (Polis statements / SMS broadcast) → protected definition (structured deliberation) → cross-cluster bridging statements → legislative implementation. The 2024 Alignment Assembly is "vTaiwan + AI assistants (sensemaker, transcripts, synthesis) + nationally-stratified sortition." The book treated the Uber case as a Plural-deliberation success; the post-book material treats it as the prototype of an institutional pattern.

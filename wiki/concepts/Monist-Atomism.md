@@ -29,3 +29,13 @@ Monist atomism is not just an abstract label; it organizes the book's positive p
 - [[Libertarianism]]
 - [[Technocracy]]
 - [[Connected-Society]]
+
+## Updates
+
+### 2026-05-27: Is "techno-communitarianism" the same as Plurality, or a refinement?
+
+From [[audreyt-org-profile]]: Tang now describes her work as **techno-communitarianism** — "a synthesis of the Plurality framework with [[Glen-Weyl]], and Patrick Deneen's communitarian critique of liberalism — as a theory of [[Civic-AI]] that fosters rather than atomises community." This raises an open question for this page: the book's two foils, [[Libertarianism]] and [[Technocracy]], are both under the umbrella of monist atomism. *Communitarianism* (in the Deneen / MacIntyre / Sandel tradition) is also a critique of liberal-individualist atomism, but from a different direction — emphasising thick local communities, traditions, and intergenerational obligation rather than the network-and-intersection frame the book's Plurality emphasises.
+
+Reading post-book Tang ([[civic-ai-manifesto]], [[good-enough-ancestor-senate-canada]], [[democracy-needs-civic-ai]]), techno-communitarianism appears to be **a refinement, not a replacement** of Plurality: it adds the Tronto/Walker care-ethics layer and the Deneen "techno-libertarianism vs techno-authoritarianism is a false dichotomy" framing, on top of the book's Arendt/Allen descriptive-normative-prescriptive core. The "third way" still cuts against monist atomism, but the *positive* commitments now include bounded community, sunset clauses, and "good enough ancestor" intergenerational duty — themes the book gestured at but did not foreground.
+
+Open: is this refinement specifically Tang's (and so optional for the broader Plurality movement), or does the move toward AI governance force every Plural project to take a stand on communitarian vs cosmopolitan commitments?

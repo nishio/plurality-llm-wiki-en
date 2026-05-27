@@ -37,3 +37,13 @@ This contrasts with both:
 
 - How do Plural publics interact with criminal investigation and counter-terrorism law? The book does not deeply engage with the encryption-vs-investigation debate.
 - Federated messaging has historically lost out to single-platform dominance for network-effect reasons; what policy or design changes break the pattern?
+
+## Updates
+
+### 2026-05-27: Spritely / ActivityPub as precursor for federated trust & safety
+
+The chapter explicitly names **Christine Lemmer-Webber**'s ActivityPub standard (foundation of Mastodon) and her **Spritely** project — "to create self-governing and strongly connected private communities in the spirit of Plural publics, allowing individual users to clearly discern, navigate and separate community contexts in open standards." Read with [[civic-ai-manifesto]] and [[collaborative-immune-system]], this prefigures Tang's post-book "federated trust & safety" lever: **ROOST.tools** (Robust Open Online Safety Tools, board member: Tang) is essentially Spritely-style federation applied not just to messaging but to *moderation infrastructure* — bridging the security and open camps so that small Plural publics can share trust-and-safety capabilities without consolidating into a single platform. The Utah Digital Choice Act's mandate for ActivityPub/AT Protocol/DSNP portability ([[ai-alignment-cannot-be-top-down]]) is the policy lever that turns ActivityPub's protocol promise into law.
+
+### 2026-05-27: "Contextual confidence" as the Civic-AI substrate question
+
+The chapter cites **Jain, Hitzig and Mishkin's "Contextual Confidence and Generative AI"** (arXiv 2311.01193, 2023) as the conceptual frame for Plural publics in the age of GFMs: "where participants in a system can easily establish and protect the context of their communications." This essay is now visible as the conceptual bridge between the book's *Plural publics* and Tang's post-book Civic-AI **Pack 3 (Competence)** and **Pack 6 (Symbiosis)**: bounded local models that operate within an established context cannot strain it because they are not trained to optimise outside it. Bengio's *Scientist AI* truthification pipeline ([[inside-the-kami]]) addresses precisely this same gap — separating "X is true" from "someone wrote X" is contextual confidence at the model level.

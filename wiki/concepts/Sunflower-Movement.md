@@ -41,3 +41,7 @@ She specifies the technical scaffolding used: crowdsourced internet access for r
 ### Antisocial media as the precursor
 
 From [[civic-ai-manifesto]]: the 2014 collapse of trust was "largely due to 'engagement through enragement' parasitic AI — what I call *antisocial media*." This framing reads the Sunflower as a defensive response to the same kind of AI dynamics that the [[Civic-AI]] 6-Pack is now designed to counter.
+
+### 2026-05-27: Civic AI built inside the occupied parliament → Community Notes
+
+From [[audreyt-org-profile]] (citing Tang's October 2025 *Firing Line* / PBS appearance): the Polis-style consensus-finding tooling **built inside the occupied parliament during the 24 days of the Sunflower Movement** is now visible as the direct lineal ancestor of what X.com adopted as **Community Notes** (formerly Birdwatch). The book ([[plurality-book]] chapter 5-4) had already cited Community Notes as the largest-scale concrete instance of Plurality on the contemporary internet; the post-book material closes the loop by making the genealogical line — Sunflower 2014 → Polis (Occupy Seattle origin) → vTaiwan → Birdwatch → Community Notes → X.com **Collaborative Notes** (AI-drafted, human-corrected) — fully explicit. The pattern: occupy → demo a better system → the demo becomes infrastructure.

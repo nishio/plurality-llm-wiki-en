@@ -51,3 +51,17 @@ The chapter is explicit that "smart contracts" cannot substitute for the slow co
 
 - The book acknowledges that traditional intellectual-property regimes are a poor fit for back-propagating value from generative models to data creators; what should replace them?
 - Group-level data ownership requires identifying which group "owns" the data — a contested question for indigenous knowledge, genetic ancestry, etc.
+
+## Updates
+
+### 2026-05-27: Polanyi's "fictitious commodities" → "data as soil"
+
+The chapter cites Karl Polanyi's argument that "land, fuel, labor and capital" are "fictitious commodities" — heterogeneous, "tied to places, people and cultures" — and notes that "in some ways they are even more severe for digital assets." This Polanyian framing is the conceptual ancestor of Tang's post-book slogan **"data is not oil. Data is soil"** ([[safer-sovereignty]], [[good-enough-ancestor-senate-canada]]). What the book frames as a *commodification problem* (the simplifying fiction that data behaves like a uniform commodity), the Civic-AI manifesto reframes as a *cultivation principle* (data is the living ground in which decisions take root, and so must be tended locally).
+
+### 2026-05-27: Customary expectations → Tronto's care ethics
+
+The chapter is emphatic that "smart contracts" cannot substitute for the slow co-evolution of contracts with "customary expectations, legal precedent, and mutual norms" — that "self-enforcing digital contracts can implement norms smoothly only once those norms exist socially." Read with [[civic-ai-manifesto]], this prefigures Tang's argument for why **care ethics** (Joan Tronto) is the only viable AI-governance frame: consequentialism cannot foresee fast outcomes, and deontology breaks when "one interpreter runs 10,000× faster" than humans. Both the book and the manifesto reject *contract-as-complete-specification* in favour of *practice-grounded relational norms* — the book at the level of digital property, Tang at the level of AI behaviour.
+
+### 2026-05-27: MIDs as direct precursor of bounded Kami
+
+The chapter introduces **"Mediators of Individual Data" (MIDs)** — "unions for creative workers representing their content, or Wikipedia representing the collective interest of its volunteer editors" — with "fiduciary duties and norms or laws protecting against unilateral disclosure by a member (analogous to prohibitions against unilateral strikebreaking against unions)." The post-book Civic-AI **Kami** ([[civic-ai-manifesto]]) is structurally the same primitive applied to *action authority* rather than to *data*: a bounded local steward operating within a defined mandate for a defined community, with explicit charters, sunset clauses and federation rules. [[safer-sovereignty]] makes this lineage explicit by extending it to enterprise: decision sovereignty as bounded delegation.

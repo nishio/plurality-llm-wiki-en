@@ -69,3 +69,7 @@ From [[safer-sovereignty]] and [[good-enough-ancestor-senate-canada]]: GFMs trai
 ### Cultural alignment failure
 
 From [[ai-alignment-cannot-be-top-down]]: Figure 1 of the original AI Frontiers essay cites Ada Lovelace Institute (2025) / *Which Humans?* PsyArXiv preprint showing that as cultural distance from a WEIRD reference point increases, GPT's alignment with local human values declines — "a subtle but systemic risk to pluralism and democratic self-determination."
+
+### 2026-05-27: The book's "Lorax" passage as Kami precursor
+
+Chapter 5-4 (Augmented Deliberation) explicitly speculates that GFMs could become a "Lorax" — invoking Dr. Seuss's creature "who speaks for the trees and animals that cannot speak for themselves" — and references Bruno Latour's "parliament of things." [[civic-ai-manifesto]]'s **Kami** metaphor (Japanese Shinto guardian spirits, each "interwoven with the health of that one thing") is the same intuition extended from *representation in deliberation* to *active stewardship under continuous oversight*. The Civic-AI substrate work in [[inside-the-kami]] (Bengio's Scientist AI, LeCun's SAI) is exactly the technical commitment that makes a Kami-as-Lorax design possible: bounded, specialised, locally adaptable, not deceptive — the four properties the book named as the requirements for trustworthy GFM-mediated administration.

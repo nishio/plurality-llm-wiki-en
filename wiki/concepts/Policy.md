@@ -74,3 +74,7 @@ From [[good-enough-ancestor-senate-canada]]: Tang argues the global AI-governanc
 ### Civic AI as the new AI-policy stack
 
 See [[Civic-AI]]: the 6-Pack of Care now functions as Tang's recommended AI-governance architecture for democracies — federated trust-and-safety (e.g. **ROOST.tools**, see [[collaborative-immune-system]]), community-scale assistants, and bounded local stewards (Kami).
+
+### 2026-05-27: "Transnational networks of digital ministries" → "interoperable governance"
+
+The chapter's updates-to-the-ARPA-model section calls for "transnational networks of digital ministries, civil society, and standards bodies to develop and steward protocols." This is now visible as the direct precursor of Tang's post-book **"interoperable governance"** doctrine from [[good-enough-ancestor-senate-canada]]: "common auditing standards, incident-reporting, synthetic-media provenance, and anti-lock-in procurement — designed to work across jurisdictions without harmonising every domestic rule. Canada, Taiwan, and other free and open societies can be peers in this work." The book argued for the *organisational form*; the Senate testimony names the *content domains* (auditing, provenance, anti-lock-in) and *political stance* (peer cooperation, not universal harmonisation).

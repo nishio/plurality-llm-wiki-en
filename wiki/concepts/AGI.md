@@ -26,3 +26,9 @@ The book argues that Plural deployment of these models — with [[Data-Coalition
 - [[Nick-Bostrom]]
 - [[Ray-Kurzweil]]
 - [[Adaptive-Administration]]
+
+## Updates
+
+### 2026-05-27: "Real AGI is a socio-technical achievement"
+
+The book treats AGI as a foil — a Technocratic concept the authors deliberately avoid in favour of "Generative Foundation Models." [[transparent-horse]] (Tang's 2040 retrospective) goes further and *reclaims* the term in a Plural register: "Real AGI, the only kind worth wanting, was always a socio-technical achievement: a human-AI collective able to acquire and apply new skills beyond its training distribution... while remaining legible, steerable and under meaningful human control." The 2037 breakthrough scene (Lagos epidemiologists + Helsinki climate modellers + Bogotá trade economists solving the West African groundwater crisis in six hours via a shared inspectable reasoning layer) makes the substitution concrete: "No single AI did that. No single human did either. The intelligence was between them." The book argued for *not using the term*; the post-book retrospective argues for *redefining it* — both moves serve the same purpose of breaking the Technocratic frame.
