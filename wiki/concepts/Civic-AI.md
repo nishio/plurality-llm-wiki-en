@@ -68,3 +68,17 @@ From [[safer-sovereignty]]: enterprise Civic AI = bounded local stewards under f
 - [[Adaptive-Administration]] — administrative AI angle
 - [[Generative-Foundation-Models]] — the substrate
 - [[Audrey-Tang]], [[Glen-Weyl]], [[Joan-Tronto]], [[Caroline-Green]]
+
+## Updates
+
+### 2026-05-28 — Civic AI Conference 2026 broadens the speaker bench
+
+From [[civic-ai-conference-2026]] (the 25 March 2026 conference agenda at Rhodes House, Oxford): the Civic AI conversation is no longer a Tang × Green dialogue but a multi-tradition synthesis. The conference roster names previously-uncovered voices that have since joined the framework: **Rosalind Picard** (MIT, founder of affective computing — "the 6-Pack unpacked from a tech-builder perspective"), **Anne-Marie Slaughter** (*sapiens integra* concept, *Daedalus* Jan 2025 with Elizabeth Garlow; see [[civic-ai-self-actualisation-and-care]]), **Peter Danenberg** (panel on 6-Pack mechanism), **Gina Neff** (Oxford Internet Institute, chairing "Rewriting the Defaults"), **Iason Gabriel** (DeepMind ethics), **Jeni Tennison** (Open Data Institute alumna), **Geshe Lobsang Negi** (Emory-Tibet ethics) and **Tenzin Gayche** (HH Dalai Lama's office) on the Accessible Intelligence panel, **Clenton Farquharson** (UK disability-rights / Think Local Act Personal), **Karina Palyutina** and **Zarinah Agnew** (Embassy Network founder) on Putting Civic AI into Practice, and **Ron Ivey** as audience engagement lead.
+
+### 2026-05-28 — Vitalik Buterin formally endorses the Kami framing
+
+From [[civic-ai-with-us-vitalik]] (March 2026 video at the Oxford conference): [[Vitalik-Buterin]] explicitly endorses bounded-local-Kami as the right framing for AI governance, against "cubic-kilometre data centres." He contributes a concrete technical primitive — **shadow LLMs**: per-user fine-tuned models that can see secrets and output exactly one decision, solving the "too many decision-makers to share secrets with" problem in distributed deliberation. He also coins "ideally every pair of people that talks to each other should have a model fine-tuned to their relationship" — a per-relationship-fine-tuning ideal that [[civic-ai-gentle-bridge]] subsequently reads as the Buddhist ideal of unique-relational-presence.
+
+### 2026-05-28 — Buddhist-ethics lineage in the conversation
+
+From [[civic-ai-gentle-bridge]] (Tenzin Yangtso, March 2026) and [[civic-ai-compassion-and-ai]] (Caroline Green × Geshe Lodoe Sangpo, recorded Dharamsala March 2026): a **Tibetan-Buddhist ethics** voice is now integrated into the Civic AI framework. Key contributions: (i) the **gym analogy** against AI delegation overreach ("the robot can lift the weights and you get a high score, but does it strengthen your muscle?"), (ii) David Bohm's **holomovement** (explicate + implicate orders) as a metaphysical frame for consciousness-and-matter wholeness, (iii) the **tollbooth diagnosis** of [[Surveillance-Capitalism]] — "Listening became a consultation fee… the Kami's task is to dismantle those tollbooths," and (iv) the **asymmetric-gift** principle: "For those with material abundance, the Kami is an auxiliary; for the marginalised, it is a tool they can finally afford."

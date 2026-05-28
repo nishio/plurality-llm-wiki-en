@@ -3,7 +3,26 @@
 > 直近 7 日分のみ。全件 compact 履歴は [log.txt](log.txt)、それより古い entry の詳細は `git log -- wiki/log.md` で参照。
 > 更新は `python3 scripts/refresh_logs.py` で log.txt と log.md を再生成する。
 
+## [2026-05-28 17:00] ingest | 5 candidate source 群 attempt (Vitalik / Stanger / RxC / reception / Civic-AI non-Tang speakers)
+
+
+- Attempted 5 candidate source groups for the EN wiki; success / failure breakdown:
+  - **Vitalik Buterin**: 5/5 essays successfully fetched via `vbuterin/blog` on GitHub → 5 new source pages + 1 new entity page ([[Vitalik-Buterin]]). Posts ingested: `vitalik-soulbound` (2022-01-26, DeSoc seed), `vitalik-three-transitions` (2023-06-09, keystore-contract identity), `vitalik-techno-optimism` (2023-11-27, d/acc + Plurality named), `vitalik-cryptoai` (2024-01-30, AI-as-player), `vitalik-let-a-thousand-societies-bloom` (2025-12-17, tribes + zones, explicit anti-country-takeover).
+  - **Civic AI Conference 2026 non-Tang speakers**: 6 sources fetched via `audreyt/civic.ai` on GitHub → 6 new source pages. Sources: `civic-ai-conference-2026` (the agenda page itself with full ~14-speaker roster), `civic-ai-with-us-vitalik` (Buterin video), `civic-ai-self-actualisation-and-care` (Slaughter video, *sapiens integra*), `civic-ai-gentle-bridge` (Tenzin Yangtso + jdd-kami essay, March 21), `civic-ai-democracy-podcast` (Tang × Green Oxford Aug 2025), `civic-ai-compassion-and-ai` (Green × Geshe Lodoe Sangpo Dharamsala March 2026).
+  - **Allison Stanger**: 0 sources fetched. WebSearch denied; WebFetch limited to plurality.net + github.com allowlist; Stanger has no GitHub profile (404). Recorded in [[wishlist]].
+  - **RadicalxChange blog**: 0 sources fetched. WebFetch denied; the `RadicalxChange/www` GitHub repo does NOT contain blog content (CMS-driven). Recorded in [[wishlist]].
+  - **Foreign Affairs / Noema / Wired / Lawfare reception**: 0 sources fetched. WebFetch denied for all four domains; WebSearch denied. Recorded in [[wishlist]].
+- 11 new pages total: 11 source pages + 1 entity page + 1 wishlist source page. Wishlist enumerates 14+ specific URLs awaiting manual fetch.
+- Existing pages with appended `## Updates` sections: `concepts/Network-State.md` (Buterin's 2025 anti-country-takeover essay = explicit distancing from book's 2-0 framing), `concepts/Civic-AI.md` (3 updates: conference broadens speaker bench, Buterin endorses Kami framing + shadow-LLM primitive, Buddhist-ethics lineage joins via Tenzin Yangtso / Geshe Lodoe Sangpo), `concepts/Identity-and-Personhood.md` (2 updates: Soulbound+Three-Transitions as web3-side sibling, per-relationship fine-tuning as relational identity primitive), `entities/Glen-Weyl.md` (correction: not on the published conference agenda — only Tang and book mention).
+- `index.md` updated with new Vitalik entity link, new "Vitalik Buterin essays (2022–2025)" sources subsection, new "Civic AI Conference 2026 — non-Tang speaker materials" sources subsection, and a "Source process" entry pointing to the wishlist.
+- Top 3 most interesting findings:
+  1. **Buterin → Plurality convergence is now explicit**, not implied. The 2025 *Let a thousand societies bloom* essay is the strongest public anti-country-takeover statement from him to date ("instead of corporations and the state serving as a healthy check and balance against each other, the two collude against everyone else… ideas go straight from being twelve-thousand-word screeds to running entire countries"). Combined with his March 2026 *AI With Us, Not Without Us* video at Oxford endorsing the Kami framing, Buterin's position in 2026 is approximately the Plurality position with web3 vocabulary — a real shift from his 2022 sympathetic-but-not-endorsing review of *The Network State*.
+  2. **A Tibetan-Buddhist ethics lineage has joined the Civic-AI framework**. Geshe Lobsang Negi, Tenzin Gayche, Tenzin Yangtso, and Geshe Lodoe Sangpo all appear in the Oxford-March-2026 / Dharamsala-March-2026 materials. The "gym analogy" (Tang via Geshe Lodoe Sangpo) is a sharp pedagogical primitive against AI delegation overreach. The "asymmetric gift" framing (Tenzin Yangtso: "for those with material abundance, the Kami is an auxiliary; for the marginalised, it is a tool they can finally afford") is the framework's first explicit equity criterion beyond Tronto's "who is excluded from care."
+  3. **Buterin's "shadow LLM" primitive solves a long-standing problem in the book's MIDs (Section 4-4)**. The objection: distributed deliberation cannot share secrets because there are too many decision-makers. Buterin's answer: per-user fine-tuned models that "see all the secrets and output one decision and can't leak anything else," enabled by MPC/FHE. This is a near-term constructive technical contribution from outside the Tang/Weyl axis.
+- Lint to follow: rebuild index.txt + refresh logs + run lint_wiki.py.
+
 ## [2026-05-27 05:30] sync | pluralitybook/plurality upstream の PDF snapshot 以降の差分を取り込み
+
 
 
 - Upstream survey via `gh api`: pluralitybook/plurality `main` is at commit `c82704e1` (2026-04-06), **~1,737 commits ahead** of the 2024-03-10 PDF snapshot (tag `20240226`, commit `a5cb02ea`) across ~300 files. 50+ merged Pull Requests reviewed plus 14 substantive Issues.
@@ -22,6 +41,7 @@
 
 
 
+
 - Re-read core book chapters (2-0, 3-0, 3-1, 4-1, 4-2, 4-4, 5-4, 5-5) with the post-book Civic-AI / 6-Pack-of-Care / Kami / Alignment-Assembly material in mind, and added 13 `## Updates` entries to 12 existing concept/entity pages.
 - Pages updated: Identity-and-Personhood (Mulu vignette → rights to know/contest; Anon-Aadhaar → COVID zk; contextual integrity → data as soil), Association-and-Plural-Publics (Spritely/ActivityPub → ROOST.tools; contextual confidence → Civic-AI substrate), Property-and-Contract (Polanyi fictitious commodities → data as soil; customary norms → Tronto care ethics; MIDs → Kami), Augmented-Deliberation (book already covers Anno 2024 Tokyo; Anthropic/OpenAI seeds of model-spec lever; Cortico/Fora → RLCF; Latour Lorax → Kami), Adaptive-Administration (AI4Bharat/Karya → transcultural sovereignty; "ethnographers of old" → Verdania Metro; SERVIR Amazonia → Kami of a forest), Generative-Foundation-Models (Lorax → Kami), Plurality (corporation-as-game → enterprise Kami; ecology/Proudhon → permaculturists), Monist-Atomism (open question: is techno-communitarianism same as Plurality or a Tronto/Deneen refinement?), Data-Coalitions (ex post facto over-sharing → Taiwan joint platform liability), Policy (transnational digital-ministry networks → interoperable governance), Sunflower-Movement (Sunflower-built Polis → X.com Community Notes), vTaiwan (2015 Uber case as Alignment Assembly template), AGI (book rejects term → transparent-horse reclaims it as socio-technical achievement).
 - Highlights of the most interesting connections:
@@ -30,6 +50,7 @@
   3. The book's chapter 5-5 cautionary line that **"ethnographers of old became tools of colonial subjugation rather than voices of inclusive translation"** is the conceptual ancestor of [[transparent-horse]]'s **Verdania Metro** (2034) speculative warning — both name the same failure mode of "succeeded just enough to hide" adaptive systems.
 
 ## [2026-05-26 23:45] ingest | EN-language Tang/Weyl talks survey
+
 
 
 
@@ -50,6 +71,7 @@
 
 
 
+
 - Created 34 entity pages and 10 concept pages for people and abstract concepts the book mentions only briefly.
 - Each page opens with the book's exact treatment, then adds concise factual context from general knowledge.
 - Entities: Lost Dao trio completion (Doug-Engelbart, Ted-Nelson); Connected Society pre-history (Mark-Granovetter, Georg-Simmel, Norbert-Wiener, John-Dewey, Henry-George); Tridemism / Taiwan figures (Sun-Yat-Sen, Hu-Shih, Chiang-Kai-Shek, Jaclyn-Tsai, Academia-Sinica); Plural Voting lineage (Lionel-Penrose, Charles-Dodgson, Robin-Hanson); Technocracy bench (Sam-Altman, Elon-Musk, Reid-Hoffman, Andrew-Yang, Ray-Kurzweil, Nick-Bostrom, Isaac-Asimov, Iain-M-Banks); Libertarianism bench (Peter-Thiel, Curtis-Yarvin, Balaji-Srinivasan, Ayn-Rand, John-Perry-Barlow, Neal-Stephenson); other thinkers cited briefly (Anu-Bradford, Cass-Sunstein, Daron-Acemoglu, James-Robinson, Shoshana-Zuboff, Marc-Andreessen).
@@ -59,6 +81,7 @@
 - Lint: 0 broken wikilinks, 0 orphans, 0 frontmatter issues; 84 pages total (was 38).
 
 ## [2026-05-26 18:30] ingest | Plurality book (English edition) full ingest
+
 
 
 

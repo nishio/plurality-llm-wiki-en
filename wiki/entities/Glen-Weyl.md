@@ -45,7 +45,11 @@ Tang now characterises her own project as **techno-communitarianism**, "a synthe
 
 ### Civic AI Conference 2026
 
-From [[democracy-needs-civic-ai]]: Weyl was a keynote speaker at the **Civic AI Conference 2026** held at Rhodes House, Oxford, on 25 March 2026 — convened by Tang and Caroline Green as the inaugural public gathering of the 6-Pack of Care community.
+From [[democracy-needs-civic-ai]]: the **Civic AI Conference 2026** was held at Rhodes House, Oxford, on 25 March 2026 — convened by Tang and Caroline Green as the inaugural public gathering of the 6-Pack of Care community.
+
+### 2026-05-28 — Weyl not on the published conference agenda
+
+From [[civic-ai-conference-2026]] (the agenda page at civic.ai/conference/): the published roster does *not* list Weyl as a speaker. The keynotes were Green, [[Joan-Tronto]], Tang, and Rosalind Picard; subsequent panels added Peter Danenberg, Gina Neff, Davide Crapis, Iason Gabriel, Jeni Tennison, Geshe Lobsang Negi, Tenzin Gayche, Clenton Farquharson, Karina Palyutina, Zarinah Agnew, with Anne-Marie Slaughter and Vitalik Buterin via video. This is an observation — Weyl may have attended without being on the public agenda — but the wiki should not assert his participation without source.
 
 ### Note on access to Weyl's solo writings
 

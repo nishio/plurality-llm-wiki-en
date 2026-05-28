@@ -3,6 +3,7 @@
 # Format: <YYYY-MM-DD HH:MM>\t<type>\t<title>
 # Regenerate: python3 scripts/refresh_logs.py
 
+2026-05-28 17:00	ingest	5 candidate source 群 attempt (Vitalik / Stanger / RxC / reception / Civic-AI non-Tang speakers)
 2026-05-27 05:30	sync	pluralitybook/plurality upstream の PDF snapshot 以降の差分を取り込み
 2026-05-27 01:30	second-pass	book re-read with post-book Civic-AI context
 2026-05-26 23:45	ingest	EN-language Tang/Weyl talks survey

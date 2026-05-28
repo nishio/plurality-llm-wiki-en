@@ -57,6 +57,7 @@ Part of the multilingual [plurality-llm-wiki](https://github.com/nishio/pluralit
 ### Authors and key thinkers
 - [Audrey Tang](entities/Audrey-Tang.md) — co-author, Minister of Digital Affairs of Taiwan
 - [Glen Weyl](entities/Glen-Weyl.md) — co-author, founder of RadicalxChange
+- [Vitalik Buterin](entities/Vitalik-Buterin.md) — Ethereum founder, DeSoc/SBT co-author, Plurality book co-credited contributor
 - [Hannah Arendt](entities/Hannah-Arendt.md) — descriptive pillar of Plurality
 - [Danielle Allen](entities/Danielle-Allen.md) — normative pillar of Plurality
 - [JCR Licklider](entities/JCR-Licklider.md) — protagonist of *The Lost Dao*
@@ -100,6 +101,25 @@ Part of the multilingual [plurality-llm-wiki](https://github.com/nishio/pluralit
 - [Democracy Needs Civic AI](sources/democracy-needs-civic-ai.md) — Oxford Civic AI Conference (March 2026)
 - [Safer Sovereignty](sources/safer-sovereignty.md) — Kyndryl Institute (April 2026)
 - [A Good Enough Ancestor](sources/good-enough-ancestor-senate-canada.md) — Senate of Canada testimony (April 2026)
+
+### Vitalik Buterin essays (2022–2025)
+- [Soulbound](sources/vitalik-soulbound.md) — vitalik.eth.limo (Jan 2022); seed of DeSoc / SBT
+- [Three Transitions](sources/vitalik-three-transitions.md) — vitalik.eth.limo (June 2023); keystore-contract identity architecture
+- [My techno-optimism](sources/vitalik-techno-optimism.md) — vitalik.eth.limo (Nov 2023); d/acc framing, Plurality named as ally
+- [Crypto + AI applications](sources/vitalik-cryptoai.md) — vitalik.eth.limo (Jan 2024); AI-as-player-in-prediction-markets
+- [Let a thousand societies bloom](sources/vitalik-let-a-thousand-societies-bloom.md) — vitalik.eth.limo (Dec 2025); tribes + zones, explicit anti-country-takeover
+
+### Civic AI Conference 2026 (Oxford, 25 March) — non-Tang speaker materials
+- [Conference agenda](sources/civic-ai-conference-2026.md) — full speaker roster, opening quotations, Polis sensemaking
+- [AI With Us, Not Without Us](sources/civic-ai-with-us-vitalik.md) — Vitalik Buterin video segment
+- [Self-Actualisation & Care](sources/civic-ai-self-actualisation-and-care.md) — Anne-Marie Slaughter video segment
+- [A Gentle Bridge](sources/civic-ai-gentle-bridge.md) — Tenzin Yangtso & jdd-kami essay (March 2026)
+- [AI and Democracy podcast](sources/civic-ai-democracy-podcast.md) — Tang × Green Oxford podcast (Aug 2025)
+- [Can AI Be Compassionate?](sources/civic-ai-compassion-and-ai.md) — Green × Geshe Lodoe Sangpo, Dharamsala (March 2026)
+
+### Source process
+
+- [Wishlist (fetch help needed)](sources/wishlist.md) — sources attempted but not accessible; awaiting human fetch
 
 ## Analyses
 
