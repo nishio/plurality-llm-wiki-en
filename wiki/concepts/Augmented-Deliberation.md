@@ -73,7 +73,7 @@ From [[civic-ai-manifesto]]: **Takahiro Anno** ran for Tokyo governor (Japan, 20
 
 ### 2026-05-27: Anno's Tokyo campaign is described in the book itself
 
-The book's "Frontiers of augmented deliberation" section already chronicles Anno's 2024 Tokyo gubernatorial run in detail (citing the AnnoManifest, the **AI-Anno virtual avatar** on YouTube that answered ~7,400 questions in 16 days at 77% of the rate of a single human respondent, and the resulting 150,000 votes / 5th-place finish — "the highest number of votes for a candidate in their 30s in the 22 past Tokyo gubernatorial elections"). What [[civic-ai-manifesto]] adds is the *political trajectory*: Anno's Team Mirai became a national party in Japan's Diet. The book captured the technical innovation in real time; the post-book material captures the political payoff.
+The book's "Frontiers of augmented deliberation" section already chronicles Anno's 2024 Tokyo gubernatorial run in detail (citing the AnnoManifest, the **AI-Anno virtual avatar** on YouTube that answered ~7,400 questions in 16 days (YouTube only; ~8,600 including phone, see [[Takahiro-Anno]]) at 77% of the rate of a single human respondent, and the resulting 150,000 votes / 5th-place finish — "the highest number of votes for a candidate in their 30s in the 22 past Tokyo gubernatorial elections"). What [[civic-ai-manifesto]] adds is the *political trajectory*: Anno's Team Mirai became a national party in Japan's Diet. The book captured the technical innovation in real time; the post-book material captures the political payoff.
 
 ### 2026-05-27: upstream-confirmed — [[pluralitybook-upstream-2024-2026]] PR #1043
 

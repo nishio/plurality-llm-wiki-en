@@ -19,7 +19,7 @@ From the manuscript (PR #1043 patch):
 - **Multi-channel input collection** — voter feedback came in via X (formerly Twitter), Google Forms, GitHub issues, and an AI-handled phone line.
 - **Talk to the City for opinion mapping** — published reports at `takahiroanno2024.github.io/tokyoai-analysis/` visualised the perspectives of the input stream using the AI Objectives Institute's TttC. The book uses this to literalise its own earlier abstract claim about LLM-mediated bridging.
 - **GitHub discussion as policy refinement** — over a 15-day window (June 21 – July 6, 2024), **232 issues raised, 104 proposals submitted, 85 adopted**.
-- **AI-Anno voice avatar on YouTube** — over a 16-day window the AI avatar answered **~7,400 questions**, ~**77%** of submitted inquiries, "significantly surpassing the capacity of a single human respondent in a lecture format."
+- **AI-Anno voice avatar on YouTube** — over a 16-day window the AI avatar answered **~7,400 questions**, ~**77%** of submitted inquiries, "significantly surpassing the capacity of a single human respondent in a lecture format." The ~7,400 counts YouTube only; with ~1,200 phone answers the total was ~8,600 (Anno's interview, [SlowNews](https://slownews.com/n/nc57874a0ad07), Japanese).
 
 Result: **~150,000 votes, 2.3%, 5th place** — "the highest number of votes in history for a candidate in their 30s in the 22 past Tokyo gubernatorial elections."
 
