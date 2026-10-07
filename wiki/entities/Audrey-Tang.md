@@ -1,6 +1,6 @@
 ---
 type: entity
-summary: Co-author of the Plurality book and inaugural Minister of Digital Affairs of Taiwan; identified by the book with the prescriptive component of Plurality and the term 數位.
+summary: Co-author of the Plurality book; Taiwan's first digital minister (2016–2022) and inaugural Minister of Digital Affairs (2022–2024), now Taiwan's Cyber Ambassador; identified by the book with the prescriptive component of Plurality and the term 數位.
 sources:
   - plurality-book.md
 ---
@@ -10,8 +10,7 @@ sources:
 From [[plurality-book]], Audrey Tang is:
 
 - co-author of the book with [[Glen-Weyl]];
-- **inaugural Minister of Digital Affairs of Taiwan** (2022–), having earlier served as Digital Minister from 2016;
-- **inaugural "digital" minister** of the Plurality Institute community.
+- Taiwan's digital minister (minister without portfolio) from 2016, and from 2022 the **first Minister of Digital Affairs** when the Ministry of Digital Affairs was established. The book was written while she held that post; her ministerial tenure ended in 2024 (see Updates).
 
 She is identified in the book's three-part definition of [[Plurality]] with the **prescriptive** component — the agenda of building the technology engines that harness diversity rather than letting it combust.
 
@@ -42,6 +41,10 @@ Her ministerial title in Mandarin, **數位**, simultaneously means "digital" (a
 - [[Joan-Tronto]], [[Caroline-Green]]
 
 ## Updates
+
+### 2026-10-08: Role section corrected
+
+The Role list previously said "inaugural Minister of Digital Affairs of Taiwan (2022–)", which read as a current post, plus a line "inaugural 'digital' minister of the Plurality Institute community". The latter is an artifact of the PDF author blurb ("Audrey Tang is the inaugural Minister of Digital Affairs in…"), not a role. Per [[plurality-book]] (2-1: "taking that role in 2016 and in 2022 becoming the first Minister of Digital Affairs") and [[audreyt-org-profile]] ("Taiwan's 1st digital minister"; current role: Cyber Ambassador), the list now gives 2016 digital minister → 2022 first Minister of Digital Affairs, ended 2024.
 
 ### Post-ministerial trajectory (from [[audreyt-org-profile]])
 
