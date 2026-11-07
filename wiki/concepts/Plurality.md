@@ -40,7 +40,7 @@ In [[plurality-book]] the conflation 數位 = digital = plural is more than a pu
 
 ## Open Questions
 
-- How does Plurality scale beyond Taiwan-sized polities without becoming either Technocratic or co-opted by existing platforms?
+- Tang reports applications in Japan and California and proposes social portability and federated governance. How does Plurality extend from these applications to larger polities while preserving democratic control and resisting platform co-option? The reported cases do not establish that outcome.
 - The book mostly equates the prescriptive sense of Plurality with a technology agenda authored from inside the Plurality community — to what extent can the descriptive/normative senses live independently from that specific agenda?
 
 ## Updates
@@ -74,3 +74,5 @@ Chapter 3-1 of the book observes that "a corporation plays in the game of global
 ### 2026-05-27: Ecosystem / mutualism / Proudhon → "society of AI permaculturists"
 
 Chapter 3-1's natural-science survey emphasises **ecology, ecosystems, mutualism, and multi-level emergence** as the post-monist-atomism scientific frame for Plurality, and footnote 123 even cites **Pierre-Joseph Proudhon's *System of Economic Contradictions*** (1846) in the lineage of biological mutualism. [[civic-ai-manifesto]]'s framing of Civic AI as "a society of AI permaculturists" rather than a singleton is the same ecological metaphor reapplied to the AI substrate. Tang's post-book preference for many bounded local Kamis over a single general-purpose gardener is the operational consequence of the descriptive component of Plurality (the social world as ecosystem, not heap-or-whole) being taken seriously at the level of AI design.
+
+- 2026-11-07: Original Open Questions item: How does Plurality scale beyond Taiwan-sized polities without becoming either Technocratic or co-opted by existing platforms? Updated the scale question with the applications and governance proposals now available in the post-book corpus. Tang's Japan and California reports and portability/federation proposals change the available examples; they do not demonstrate durable democratic control at national scale (from [[civic-ai-manifesto]], locally saved text, lines 94–113 and 207–218; see also [[Digital-Democracy]]'s Travelling instances Updates, `8cb6271`, 2026-05-27).

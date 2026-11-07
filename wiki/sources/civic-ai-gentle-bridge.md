@@ -40,4 +40,8 @@ This essay represents a **theological / contemplative-traditions** voice in the 
 
 ## Open Questions
 
-- The author "jdd-kami" is co-credited. Is this a person, a kami (in the technical Civic-AI sense — i.e. a Kami AI), or a collective pseudonym? The page does not say. If it is a Kami, this would be the first formal co-authorship-credit-by-a-Kami in the Plurality literature, which is itself a significant data point.
+- Tang identifies **jdd-kami** as a Civic AI tended with Tenzin Yangtso in [[democracy-needs-civic-ai]]. Its identity is therefore documented, but whether this is the first formal co-authorship credit for a Kami in the Plurality literature remains unverified.
+
+## Updates
+
+- 2026-11-07: Original Open Questions item: The author "jdd-kami" is co-credited. Is this a person, a kami (in the technical Civic-AI sense — i.e. a Kami AI), or a collective pseudonym? The page does not say. If it is a Kami, this would be the first formal co-authorship-credit-by-a-Kami in the Plurality literature, which is itself a significant data point. Resolved the identity part of the question using Tang's own account: jdd-kami is a locally hosted Civic AI tended by Tang and Tenzin Yangtso. The saved essay credits "Tenzin Yangtso & jdd-kami." The claim to the first such credit remains open because these texts do not establish bibliographic priority. Both primary texts predate the question's 2026-05-28 recording (from [[democracy-needs-civic-ai]], 2026-03-25, locally saved text, lines 20–31; the saved original of this essay, 2026-03-21, lines 3–8; the identity is also recorded in [[Generative-Foundation-Models]]'s Updates, line 66, added in `8cb6271`, 2026-05-27).

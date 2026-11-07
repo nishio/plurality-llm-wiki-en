@@ -49,7 +49,7 @@ From [[plurality-book]], Taiwan's particular form of Digital Democracy synthesiz
 
 ## Open Questions
 
-- Does the Taiwan model travel to larger or more deeply polarized polities (US, India, Brazil), or is it tied to Taiwan's specific historical conditions (size, external adversary, cooperative tradition)?
+- Tang reports applications in Japan and California, including a ten-week California deliberation with over 1,400 state employees. What do these cases establish about transfer to larger or more deeply polarized polities (US, India, Brazil), beyond the reported local and electoral uses?
 - Are bridging algorithms like Community Notes durable as platforms change ownership?
 
 ## Updates
@@ -71,3 +71,5 @@ From [[collaborative-immune-system]]: According to V-Dem (Varieties of Democracy
 ### "Geothermal democracy"
 
 From [[audreyt-org-profile]]: Tang's December 2025 Right Livelihood Lecture in Zurich introduced the framing **geothermal democracy** — "the crashing plates turned into positive energy for renewal." See also the Right Livelihood Award acceptance speech in Stockholm.
+
+- 2026-11-07: Original Open Questions item: Does the Taiwan model travel to larger or more deeply polarized polities (US, India, Brazil), or is it tied to Taiwan's specific historical conditions (size, external adversary, cooperative tradition)? Updated the transfer question to include the Japan and California cases recorded after the question was added. Tang reports over 1,400 California participants and more than 2,600 ideas; these are reported applications, with national-scale transfer still open (from [[civic-ai-manifesto]], locally saved text, lines 94–106; this page's Travelling instances Updates added in `8cb6271`, 2026-05-27).

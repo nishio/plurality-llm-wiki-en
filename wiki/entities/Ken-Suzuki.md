@@ -64,5 +64,8 @@ Ken Suzuki is a clear case of **JA → EN reverse integration**: a concept linea
 
 ## Open Questions
 
-- The PR #1055 sub-section ends by calling the Japanese industrial-cybernetic line "another lost Dao." Is this a parallel structure to [[The-Lost-Dao|the principal Lost Dao]] of [[JCR-Licklider|Licklider]] / [[Doug-Engelbart|Engelbart]] / [[Ted-Nelson|Nelson]], or a subsumed branch? The book leaves this open.
 - Suzuki's "Constructive Social Contract Theory" (~2005) is asserted in the book to predate Ethereum (2014). The wiki has no independent corroboration of the dating; this should be verified before being treated as a settled priority claim.
+
+## Updates
+
+- 2026-11-07: Original Open Questions item: The PR #1055 sub-section ends by calling the Japanese industrial-cybernetic line "another lost Dao." Is this a parallel structure to [[The-Lost-Dao|the principal Lost Dao]] of [[JCR-Licklider|Licklider]] / [[Doug-Engelbart|Engelbart]] / [[Ted-Nelson|Nelson]], or a subsumed branch? The book leaves this open. Closed the question about how the manuscript presents the two historical lineages. The closing paragraph of "Quality Control and Nameraka Society" explicitly describes the Japanese developments as "parallel to and separate from the internet evolution" and as another path toward cybernetic thinking. This wording was already present before this wiki's question was recorded; the triage corrects an overlooked passage (from [[pluralitybook-upstream-2024-2026]]; primary manuscript `contents/english/3-3-the-lost-dao.md:173`, local `upstream/main` at `30db8ec`; wording introduced in `086b835e5ee9e3d5a316ed16b34130581344712f`, 2024-12-24).

@@ -40,7 +40,7 @@ A Plural Adaptive Administration is contrasted with surveillance-administrative 
 
 ## Open Questions
 
-- How much administrative discretion can be delegated to GFMs before democratic legitimacy is undermined?
+- Post-book Civic AI proposes bounded local Kami with explicit charters, sunset clauses, and decision traces. Under these proposed safeguards, how much administrative discretion can be delegated to GFMs while preserving democratic legitimacy? Their effectiveness remains to be established.
 - Bias in GFMs is typically diagnosed at the level of demographic groups, which sits awkwardly with Plurality's emphasis on intersecting affiliations — what is the right frame?
 
 ## Updates
@@ -72,3 +72,5 @@ The "Limits of adaptive administration" section warns: "Many of the ethnographer
 ### 2026-05-27: SERVIR Amazonia / Rainforest Foundation prefigure the Kami of a forest
 
 The chapter cites GFM-augmented indigenous mapping work — **Digital Democracy, the Rainforest Foundation US, the Australian Government's Indigenous Land and Sea Corporation and México's SERVIR Amazonia** — used to "describe such traditional patterns of rights and assert them against colonial legal systems." Read with [[civic-ai-manifesto]] this is the book's most explicit precursor of the Kami: a bounded local steward "whose entire existence and purpose are interwoven with the health of that one thing" — a specific river, a particular forest. The book established that GFMs could be tuned to indigenous and place-specific knowledge; Tang's post-book frame establishes that this is the *primary* design pattern for Civic AI, not a special case.
+
+- 2026-11-07: Original Open Questions item: How much administrative discretion can be delegated to GFMs before democratic legitimacy is undermined? Updated the delegation question to include the bounded-Kami safeguards recorded after the question was added. These are proposed governance conditions; they do not establish a safe amount of administrative discretion or measured democratic legitimacy (from [[civic-ai-manifesto]], locally saved text, lines 163 and 207–218, and [[safer-sovereignty]], lines 39 and 75–83; this page's Updates added in `8cb6271`, 2026-05-27).

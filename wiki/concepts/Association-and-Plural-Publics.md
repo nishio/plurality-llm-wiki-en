@@ -36,7 +36,7 @@ This contrasts with both:
 ## Open Questions
 
 - How do Plural publics interact with criminal investigation and counter-terrorism law? The book does not deeply engage with the encryption-vs-investigation debate.
-- Federated messaging has historically lost out to single-platform dominance for network-effect reasons; what policy or design changes break the pattern?
+- Post-book material names social-graph portability and federated trust-and-safety as responses to platform lock-in. Do these measures overcome the network effects that have favoured single-platform messaging? The cited proposals do not establish that outcome.
 
 ## Updates
 
@@ -47,3 +47,5 @@ The chapter explicitly names **Christine Lemmer-Webber**'s ActivityPub standard 
 ### 2026-05-27: "Contextual confidence" as the Civic-AI substrate question
 
 The chapter cites **Jain, Hitzig and Mishkin's "Contextual Confidence and Generative AI"** (arXiv 2311.01193, 2023) as the conceptual frame for Plural publics in the age of GFMs: "where participants in a system can easily establish and protect the context of their communications." This essay is now visible as the conceptual bridge between the book's *Plural publics* and Tang's post-book Civic-AI **Pack 3 (Competence)** and **Pack 6 (Symbiosis)**: bounded local models that operate within an established context cannot strain it because they are not trained to optimise outside it. Bengio's *Scientist AI* truthification pipeline ([[inside-the-kami]]) addresses precisely this same gap — separating "X is true" from "someone wrote X" is contextual confidence at the model level.
+
+- 2026-11-07: Original Open Questions item: Federated messaging has historically lost out to single-platform dominance for network-effect reasons; what policy or design changes break the pattern? Updated the federation question to acknowledge the policy and design responses already recorded in Updates. Tang's portability and federated trust-and-safety proposals supply candidate mechanisms; the local evidence does not show that they have overcome messaging network effects or verify the present enforcement of the cited law (from [[civic-ai-manifesto]], locally saved text, lines 111–113, and [[ai-alignment-cannot-be-top-down]], lines 98–108; this page's Updates added in `d82d60d`, 2026-05-27).

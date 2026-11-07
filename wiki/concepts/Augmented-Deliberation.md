@@ -47,7 +47,7 @@ each with different trade-offs of legitimacy, expertise, and participation.
 ## Open Questions
 
 - Bridging algorithms depend on platform owners' willingness to optimize for cross-cleavage agreement rather than engagement; ownership changes can reverse the optimization overnight.
-- AI facilitation risks introducing the facilitator's biases at scale; the book leaves this open.
+- AI facilitation risks introducing the facilitator's biases at scale. Post-book proposals add public model specifications, community-authored evaluations, appeal loops, and Reinforcement Learning from Community Feedback; how effectively do these address facilitator bias in deliberation?
 
 ## Updates
 
@@ -94,3 +94,5 @@ The chapter highlights **MIT Center for Constructive Communication's Cortico/For
 ### 2026-05-27: Latour's "parliament of things" / The Lorax → Kami
 
 The chapter's most striking speculative passage cites **Bruno Latour's "parliament of things"** and Dr. Seuss's **Lorax** — "Dr. Seuss's mythical creature who speaks for the trees and animals that cannot speak for themselves" — as candidates for GFM-mediated representation of natural systems. [[civic-ai-manifesto]] introduces the **Kami** metaphor (Japanese Shinto guardian spirits) with almost the same phrasing: "There might be a local Kami of a specific river, a particular forest, or even an old tree. Whatever the form, its entire existence and purpose are interwoven with the health of that one thing." The book offered the *representation* angle (a Lorax speaks for the trees in deliberation); Tang's post-book frame extends it to *stewardship* (a Kami acts as bounded administrator of that one thing).
+
+- 2026-11-07: Original Open Questions item: AI facilitation risks introducing the facilitator's biases at scale; the book leaves this open. Updated the facilitator-bias question to include the later governance proposals. Public specifications, community evaluations, appeal loops, and community feedback are described as mechanisms for scrutiny and correction; this does not establish their effectiveness against facilitator bias (from [[ai-alignment-cannot-be-top-down]], locally saved text, lines 90–110; this page's Updates on industry norms and RLCF added in `d82d60d`, 2026-05-27).

@@ -45,5 +45,9 @@ Note: the existing `concepts/Augmented-Deliberation.md` `## Updates` section had
 
 ## Open Questions
 
-- The manuscript footnote is silent on whether AI-Anno's voice was a **clone of Anno's own voice** or a generic TTS voice. [[civic-ai-manifesto]] describes it as a "phone-callable AI voice clone" — the more specific framing.
+- The October 2026 correction distinguishes the ~7,400 YouTube answers from the ~1,200 phone answers. [[civic-ai-manifesto]] calls the phone system a voice clone; was the YouTube avatar also a clone of Anno's own voice, or did it use generic TTS? Neither the manuscript footnote nor the count correction settles the YouTube voice technology.
 - The 15-day GitHub window (232 issues, 104 proposals, 85 adopted) is a concrete data point worth comparing against [[vTaiwan]]'s 2015 Uber case as a baseline for the *density* of issue-traffic in digital-democracy experiments.
+
+## Updates
+
+- 2026-11-07: Original Open Questions item: The manuscript footnote is silent on whether AI-Anno's voice was a **clone of Anno's own voice** or a generic TTS voice. [[civic-ai-manifesto]] describes it as a "phone-callable AI voice clone" — the more specific framing. Updated the voice question to keep the YouTube and phone systems distinct after the count correction. The correction establishes the counting scope, with the YouTube voice mechanism still unverified (from [[civic-ai-manifesto]], locally saved text, line 96; `becbda4d7c77f79ac05594f7cb5e868776f30424`, 2026-10-01; cross-wiki audit recorded in `/Users/nishio/grasp-nishio/LOG.md:760`, entry dated 2026-10-06).
