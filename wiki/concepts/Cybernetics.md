@@ -25,3 +25,7 @@ Cybernetics is the trans-disciplinary study of regulatory and feedback systems, 
 - [[Connected-Society]]
 - [[JCR-Licklider]]
 - [[The-Lost-Dao]]
+
+## Updates
+
+- 2026-11-07: The statement above that the book does not develop cybernetics in detail overlooks its dedicated subsection, "Norbert Wiener's cybernetic society," covering homeostasis, communication, Wiener's politics, and his doubts about social science. This subsection already existed in the recorded baseline; the later Nameraka discussion adds another lineage (from [[plurality-book]] and [[pluralitybook-upstream-2024-2026]]; evidence: upstream commit `a5cb02ea`, `contents/english/03-02-the-lost-dao.md:75–82`; local manuscript `contents/english/3-2-connected-society.md:152–158`; [[Nameraka-Society]]:17–22).

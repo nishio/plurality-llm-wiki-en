@@ -72,3 +72,7 @@ The conference incorporated a Polis exercise on AI and community care. Two repor
 Until this source was ingested, the EN wiki had pages only for Tang, Green, and Tronto in the Civic-AI orbit. This source establishes that the Civic-AI movement at Oxford has a broader bench of voices including the *Tibetan-Buddhist ethics* track (Geshe Lobsang Negi, Tenzin Gayche, Tenzin Yangtso), the *affective-computing* track (Picard), the *disability-rights / lived-experience* track (Farquharson), the *gender-and-care* track (Slaughter, on her *Daedalus* 2025 paper with Elizabeth Garlow on *sapiens integra*), and the *Embassy Network / network of houses* track (Agnew).
 
 The fact that Pope Leo XIV is cited from a May 2026 encyclical (*Magnifica Humanitas*) is itself a data point: the Civic-AI / 6-Pack-of-Care framing has reached the Vatican-level moral-authority discourse by mid-2026.
+
+## Updates
+
+- 2026-11-07: The saved page labels its programme "Draft Agenda." Its roster records the planned programme; it does not verify the earlier assertion that every listed speaker actually appeared. Green is listed for welcome and framing, while Tronto, Tang, and Picard are explicitly labelled keynote speakers (from this source's saved original, `raw/candidates/civic-ai-conference.md:27–44`; evidence: this page's speaker claim at line 21 and Keynoters list at lines 35–39; wiki commit `c45a516`).

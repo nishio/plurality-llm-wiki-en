@@ -23,3 +23,7 @@ Norbert Wiener (1894–1964) was an American mathematician and philosopher, Prof
 - [[Connected-Society]]
 - [[Georg-Simmel]]
 - [[JCR-Licklider]]
+
+## Updates
+
+- 2026-11-07: The earlier "one sentence" description is incomplete. The book also has a dedicated subsection, "Norbert Wiener's cybernetic society," discussing homeostasis, communication, his politics, and his doubts about social science. It was already present in the recorded baseline (from [[plurality-book]]; evidence: upstream commit `a5cb02ea`, `contents/english/03-02-the-lost-dao.md:75–82`; local manuscript `contents/english/3-2-connected-society.md:152–158`; see also [[Cybernetics]] and [[Nameraka-Society]]:17–22).

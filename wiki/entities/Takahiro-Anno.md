@@ -27,7 +27,7 @@ Result: **~150,000 votes, 2.3%, 5th place** — "the highest number of votes in 
 
 - October 15, 2024 — Talk to the City used in a House of Representatives election special program to confront incumbent politicians with citizens' concerns.
 - November 22, 2024 onward — Talk to the City used to gather public input for Tokyo's 2050 long-term plan; **>10,000 opinions** collected by December 13 (per the manuscript footnote).
-- Per [[civic-ai-manifesto]] (Tang, 2026): Anno's **Team Mirai** has since become a national party in Japan's Diet.
+- Per [[civic-ai-manifesto]] (Tang, 2025): Anno's **Team Mirai** has since become a national party in Japan's Diet.
 
 ## Why this matters for the wiki森
 
@@ -51,3 +51,5 @@ Note: the existing `concepts/Augmented-Deliberation.md` `## Updates` section had
 ## Updates
 
 - 2026-11-07: Original Open Questions item: The manuscript footnote is silent on whether AI-Anno's voice was a **clone of Anno's own voice** or a generic TTS voice. [[civic-ai-manifesto]] describes it as a "phone-callable AI voice clone" — the more specific framing. Updated the voice question to keep the YouTube and phone systems distinct after the count correction. The correction establishes the counting scope, with the YouTube voice mechanism still unverified (from [[civic-ai-manifesto]], locally saved text, line 96; `becbda4d7c77f79ac05594f7cb5e868776f30424`, 2026-10-01; cross-wiki audit recorded in `/Users/nishio/grasp-nishio/LOG.md:760`, entry dated 2026-10-06).
+
+- 2026-11-07: Corrected the year of the manifesto citation from 2026 to 2025. Its account of Team Mirai is in the 2025-09-01 speech (from [[civic-ai-manifesto]]:13; evidence: saved original `raw/audrey-tang-civic-ai-manifesto.md:5,98`; incorrect year introduced in wiki commit `4470272`).

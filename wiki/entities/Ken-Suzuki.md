@@ -8,7 +8,7 @@ sources:
 
 ## Role
 
-Ken Suzuki is, as of the 2024-2026 upstream additions to [[plurality-book]], **a named precursor of Plurality in the English manuscript**. He appears in three places:
+Ken Suzuki is, as of the 2024-2026 upstream additions to [[plurality-book]], **a named precursor of Plurality in the English manuscript**. He appears in four places:
 
 1. as an **endorser** in `0-0-endorsements.md` ([[pluralitybook-upstream-2024-2026]] PR #918),
 2. as the originator of **"Nameraka Society"** in the new sub-section of chapter 3-3 [[The-Lost-Dao]] (PR #1055),
@@ -69,3 +69,5 @@ Ken Suzuki is a clear case of **JA → EN reverse integration**: a concept linea
 ## Updates
 
 - 2026-11-07: Original Open Questions item: The PR #1055 sub-section ends by calling the Japanese industrial-cybernetic line "another lost Dao." Is this a parallel structure to [[The-Lost-Dao|the principal Lost Dao]] of [[JCR-Licklider|Licklider]] / [[Doug-Engelbart|Engelbart]] / [[Ted-Nelson|Nelson]], or a subsumed branch? The book leaves this open. Closed the question about how the manuscript presents the two historical lineages. The closing paragraph of "Quality Control and Nameraka Society" explicitly describes the Japanese developments as "parallel to and separate from the internet evolution" and as another path toward cybernetic thinking. This wording was already present before this wiki's question was recorded; the triage corrects an overlooked passage (from [[pluralitybook-upstream-2024-2026]]; primary manuscript `contents/english/3-3-the-lost-dao.md:173`, local `upstream/main` at `30db8ec`; wording introduced in `086b835e5ee9e3d5a316ed16b34130581344712f`, 2024-12-24).
+
+- 2026-11-07: Corrected "three places" to "four places" to match the four listed manuscript locations: endorsements, 3-3, 5-6, and 5-7 (from [[pluralitybook-upstream-2024-2026]]; evidence: local manuscript `contents/english/0-0-endorsements.md:203`, `3-3-the-lost-dao.md:163,178`, `5-6-⿻-voting.md:66`, `5-7-social-markets.md:132`; the miscount and all four list items were introduced together in wiki commit `4470272`).

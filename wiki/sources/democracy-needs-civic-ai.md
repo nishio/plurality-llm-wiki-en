@@ -27,3 +27,7 @@ Tang frames the Civic AI argument as a personal scene: aboard a flight in airpla
 ## Concepts touched
 - [[Plurality]], [[Augmented-Deliberation]], [[Adaptive-Administration]], [[Generative-Foundation-Models]]
 - New: Civic AI, Kami, jdd-kami, local model stewardship, decision traces
+
+## Updates
+
+- 2026-11-07: The earlier claim that Glen Weyl was a keynote speaker is unsupported by the saved published agenda. It lists Caroline Green for welcome and framing, followed by keynotes from Joan Tronto, Audrey Tang, and Rosalind Picard, and does not name Weyl. This does not determine whether he attended (from [[civic-ai-conference-2026]]; evidence: saved original `raw/candidates/civic-ai-conference.md:27–44`; [[Glen-Weyl]]:50–52, corrected in wiki commit `c45a516` on 2026-05-28; the earlier source claim was introduced in `8cb6271`).

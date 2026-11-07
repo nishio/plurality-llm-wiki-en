@@ -38,3 +38,7 @@ The chapter concludes that a "headlong rush" into a monopolistic metaverse must 
 - [[Creative-Collaborations]]
 - [[Augmented-Deliberation]]
 - [[Generative-Foundation-Models]]
+
+## Updates
+
+- 2026-11-07: The earlier paragraph's chapter attribution is incorrect. Park of Aging opens 5-1 [[Post-Symbolic-Communication]]; 5-2 Immersive Shared Reality opens with Courtney Cogburn's *1000 Cut Journey* (from [[plurality-book]]; evidence: local manuscript `contents/english/5-1-post-symbolic-communication.md:3–5` and `5-2-immersive-shared-reality.md:3`; [[Post-Symbolic-Communication]]:12 and [[plurality-book]]:54).

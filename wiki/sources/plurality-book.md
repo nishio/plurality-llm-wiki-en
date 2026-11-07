@@ -46,7 +46,7 @@ Articulates Plurality as both a system of rights and a digital operating system,
 - **4-2 [[Association-and-Plural-Publics]]** — End-to-end encrypted messaging, federated communication, secure multi-party computation, group-level privacy.
 - **4-3 [[Commerce-and-Trust]]** — Quantitative trust networks; community currencies; alternatives to fungible universal money.
 - **4-4 [[Property-and-Contract]]** — Digital asset sharing (storage, computation, data); usus / abusus / fructus; [[Data-Coalitions]]; smart contracts as incomplete artifacts of social norms.
-- **4-5 [[Access]]** — The "digital divide"; right-to-access; digital public infrastructure (India Stack, Taiwan, Estonia's Diia/mRiik).
+- **4-5 [[Access]]** — The "digital divide"; right-to-access; digital public infrastructure (India Stack, Taiwan, Estonia's mRiik, Ukraine's Diia).
 
 ### Section 5: Democracy
 A spectrum of "collaboration across diversity" technologies plotted on a depth-vs-breadth production-possibilities frontier.
@@ -93,3 +93,7 @@ Pages in this wiki cite this source as `from [[plurality-book]]` (or equivalent 
 Notable structural change: in 2024 every chapter file was renamed (e.g. `01-preface.md` → `1-preface.md`, `02-00-...` → `2-0-...`) and a new chapter **3-2 Connected Society** was promoted to its own file (previously content was woven into 3-1 and 3-3 in the PDF era). This wiki's chapter numbering follows the upstream post-rename convention; the PDF's older `02-01` style numbering is no longer used.
 
 Notable factual correction adopted upstream: chapter 2-1 [[Sunflower-Movement|A View from Yushan]]'s sentence about US "supporting" UNGA Resolution 2758 (1971) was corrected in PR #1117 (audreyt, 2026-02-19) after Issue #1116 (nishio) pointed out the US in fact voted **against** Resolution 2758. The current upstream wording avoids the misleading "supporting" verb. The PDF-era page on this wiki may carry the older claim; readers should treat the upstream wording as canonical.
+
+- 2026-11-07: The author listing's "digital minister of the Plurality Institute community" is a mistaken reading of the PDF blurb, not a role. Tang was Taiwan's digital minister from 2016 and its first Minister of Digital Affairs from 2022 to 2024; her later role is Cyber Ambassador (from [[audreyt-org-profile]]; evidence: [[Audrey-Tang]]:13,45–51 and the 2026-10-08 entry in `wiki/log.md`; wiki commit `df03b9b` corrected the entity page but left this source listing unchanged).
+
+- 2026-11-07: Corrected the country attribution in the Access chapter summary: Diia is Ukrainian and mRiik is Estonian (from [[plurality-book]]; evidence: local manuscript `contents/english/4-5-access.md:74–82`; [[Access]]:22–23 and [[Digital-Public-Infrastructure]]:22–23).
